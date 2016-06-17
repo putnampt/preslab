@@ -1,0 +1,16 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoEatingThings_itm.txt
+COND:	firstFiveMixedFour_cnd.txt
+DATE:	03/18/2016 10:29:45
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	0	RVal:	1	Rsp:	Right	Start:	1107	End:	11367	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	9	RVal:	1	Rsp:	Left	Start:	11464	End:	23117	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	9	RVal:	5	Rsp:	Right	Start:	23212	End:	33333	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	5	RVal:	0	Rsp:	Left	Start:	33428	End:	43766	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	1	RVal:	0	Rsp:	Miss	Start:	43862	End:	54282	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	9	RVal:	1	Rsp:	Left	Start:	54380	End:	66548	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	1	RVal:	0	Rsp:	Left	Start:	66643	End:	80781	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	1	RVal:	5	Rsp:	Ignore	Start:	80876	End:	99864	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	1	RVal:	0	

@@ -1,0 +1,21 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoiceTraining1_itm.txt
+COND:	movieChoiceTraining1_cnd.txt
+DATE:	05/19/2016 12:25:07
+Showing conditions: 201-->210.
+MagicNumbers:	23	49	244	174	79	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	201	LVal:	8	RVal:	1	LName:	MC_cypnsflckrA	RName:	MC_cybrds4B	Rsp:	Left	Start:	1563	End:	18479	END
+Trl:	1	Blk:	1	Cnd:	202	LVal:	0	RVal:	5	LName:	MC_cybchmm1B	RName:	MC_cykdintrs2A	Rsp:	Ignore	Start:	18909	End:	35773	END
+Trl:	2	Blk:	1	Cnd:	203	LVal:	0	RVal:	8	LName:	MC_cybchmm2B	RName:	MC_cypnsplyngB	Rsp:	Right	Start:	36190	End:	52566	END
+Trl:	3	Blk:	1	Cnd:	204	LVal:	3	RVal:	8	LName:	MC_dvs06B	RName:	MC_cypnsflckrA	Rsp:	Ignore	Start:	52987	End:	69744	END
+Trl:	4	Blk:	1	Cnd:	205	LVal:	1	RVal:	8	LName:	MC_cybrds5B	RName:	MC_cypnsplyngA	Rsp:	StartCueMiss	Start:	70172	End:	78406	END
+Trl:	5	Blk:	1	Cnd:	205	LVal:	1	RVal:	8	LName:	MC_cybrds5B	RName:	MC_cypnsplyngA	Rsp:	Ignore	Start:	78828	End:	95217	END
+Trl:	6	Blk:	1	Cnd:	206	LVal:	0	RVal:	3	LName:	MC_cybchmm1A	RName:	MC_dvs05B	Rsp:	StartCueMiss	Start:	95661	End:	103846	END
+Trl:	7	Blk:	1	Cnd:	206	LVal:	0	RVal:	3	LName:	MC_cybchmm1A	RName:	MC_dvs05B	Rsp:	Right	Start:	104265	End:	119041	END
+Trl:	8	Blk:	1	Cnd:	207	LVal:	1	RVal:	5	LName:	MC_kvnA	RName:	MC_kmA	Rsp:	Ignore	Start:	119451	End:	136202	END
+Trl:	9	Blk:	1	Cnd:	208	LVal:	5	RVal:	0	LName:	MC_cykdintrs1A	RName:	MC_cybchmm1A	Rsp:	Early	Start:	136597	End:	146864	END
+Trl:	10	Blk:	1	Cnd:	209	LVal:	5	RVal:	3	LName:	MC_cykdintrs1B	RName:	MC_dvs06A	Rsp:	Early	Start:	147280	End:	158543	END
+Trl:	11	Blk:	1	Cnd:	210	LVal:	8	RVal:	1	LName:	MC_cypnsplyngB	RName:	MC_cybrds5B	Rsp:	Left	Start:	158991	End:	175536	END
+PROGRAM EXIT

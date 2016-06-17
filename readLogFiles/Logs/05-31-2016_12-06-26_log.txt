@@ -1,0 +1,27 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice1_itm.txt
+COND:	movieChoice1_cnd.txt
+DATE:	05/31/2016 12:06:26
+Showing conditions: 361-->370.
+MagicNumbers:	58	21	194	49	233	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	361	LVal:	8	RVal:	0	LName:	NS_wtrbttl5	RName:	NS_whttp6	Rsp:	startCueIgnore	Start:	1645	End:	14214	END
+Trl:	1	Blk:	1	Cnd:	361	LVal:	8	RVal:	0	LName:	NS_wtrbttl5	RName:	NS_whttp6	Rsp:	startCueIgnore	Start:	14633	End:	27209	END
+Trl:	2	Blk:	1	Cnd:	361	LVal:	8	RVal:	0	LName:	NS_wtrbttl5	RName:	NS_whttp6	Rsp:	Left	Start:	27618	End:	43986	END
+Trl:	3	Blk:	1	Cnd:	362	LVal:	8	RVal:	0	LName:	5S_63ne	RName:	5S_59th	Rsp:	Ignore	Start:	44505	End:	61097	END
+Trl:	4	Blk:	1	Cnd:	363	LVal:	0	RVal:	8	LName:	5S_59ne	RName:	5S_63th2	Rsp:	StartCueMiss	Start:	61618	End:	69909	END
+Trl:	5	Blk:	1	Cnd:	363	LVal:	0	RVal:	8	LName:	5S_59ne	RName:	5S_63th2	Rsp:	Ignore	Start:	70399	End:	86837	END
+Trl:	6	Blk:	1	Cnd:	364	LVal:	8	RVal:	0	LName:	NS_wtrbttl3	RName:	NS_whttp1	Rsp:	startCueIgnore	Start:	87273	End:	99848	END
+Trl:	7	Blk:	1	Cnd:	364	LVal:	8	RVal:	0	LName:	NS_wtrbttl3	RName:	NS_whttp1	Rsp:	startCueIgnore	Start:	100226	End:	112810	END
+Trl:	8	Blk:	1	Cnd:	364	LVal:	8	RVal:	0	LName:	NS_wtrbttl3	RName:	NS_whttp1	Rsp:	Left	Start:	113209	End:	130520	END
+Trl:	9	Blk:	1	Cnd:	365	LVal:	3	RVal:	0	LName:	NS_wrstrppr3	RName:	NS_whttp6	Rsp:	Right	Start:	130929	End:	147247	END
+Trl:	10	Blk:	1	Cnd:	366	LVal:	3	RVal:	8	LName:	5S_61ne2	RName:	5S_63ls2	Rsp:	Right	Start:	147758	End:	164124	END
+Trl:	11	Blk:	1	Cnd:	367	LVal:	3	RVal:	8	LName:	5S_61ls	RName:	5S_63ne2	Rsp:	Right	Start:	164622	End:	181034	END
+Trl:	12	Blk:	1	Cnd:	368	LVal:	3	RVal:	8	LName:	NS_wrstrppr3	RName:	NS_wtrbttl5	Rsp:	Early	Start:	181464	End:	194513	END
+Trl:	13	Blk:	1	Cnd:	369	LVal:	0	RVal:	8	LName:	5S_59th2	RName:	5S_63th	Rsp:	startCueIgnore	Start:	195039	End:	207607	END
+Trl:	14	Blk:	1	Cnd:	369	LVal:	0	RVal:	8	LName:	5S_59th2	RName:	5S_63th	Rsp:	Right	Start:	208087	End:	225250	END
+Trl:	15	Blk:	1	Cnd:	370	LVal:	8	RVal:	3	LName:	5S_63th2	RName:	5S_61th	Rsp:	startCueIgnore	Start:	225744	End:	238312	END
+Trl:	16	Blk:	1	Cnd:	370	LVal:	8	RVal:	3	LName:	5S_63th2	RName:	5S_61th	Rsp:	startCueIgnore	Start:	238805	End:	251374	END
+Trl:	17	Blk:	1	Cnd:	370	LVal:	8	RVal:	3	LName:	5S_63th2	RName:	5S_61th	Rsp:	Right	Start:	251853	End:	266968	END
+PROGRAM EXIT

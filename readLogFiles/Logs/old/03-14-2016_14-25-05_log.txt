@@ -1,0 +1,12 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	mainCoonAndGermanShepard_itm.txt
+COND:	test_cnd2.txt
+DATE:	03/14/2016 14:25:05
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	1016	End:	14384	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	14393	End:	28383	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	28390	End:	42416	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	42425	End:	58715	END
+Trl:	5	Blk:	1	Cnd:	5	

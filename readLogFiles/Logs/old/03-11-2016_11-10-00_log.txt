@@ -1,0 +1,10 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	bananasAndPencils_itm.txt
+COND:	test_cnd.txt
+DATE:	03/11/2016 11:10:00
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	1016	End:	14384	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	14389	End:	29550	END
+Trl:	3	Blk:	1	Cnd:	3	

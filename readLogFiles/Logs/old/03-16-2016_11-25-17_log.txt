@@ -1,0 +1,5 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoEatingThings_itm.txt
+COND:	testMixCnd.txt
+DATE:	03/16/2016 11:25:17

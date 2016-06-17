@@ -1,0 +1,17 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	robinAndHorse_itm.txt
+COND:	simpleFirstFiveCompare_cnd.txt
+DATE:	03/15/2016 11:02:14
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Left	Start:	1035	End:	12000	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Left	Start:	12036	End:	21833	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Left	Start:	21861	End:	30433	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Left	Start:	30442	End:	39933	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Left	Start:	39957	End:	47283	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Left	Start:	47324	End:	57199	END
+Trl:	7	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	57208	End:	69249	END
+Trl:	8	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	69258	End:	81282	END
+Trl:	9	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	81291	End:	93315	END
+Trl:	10	Blk:	1	Cnd:	7	

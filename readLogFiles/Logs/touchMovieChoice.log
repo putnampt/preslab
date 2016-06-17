@@ -1,0 +1,26 @@
+Scenario - Touch Movie Choice
+Logfile written - 05/27/2016 09:21:42
+
+Trial	Event Type	Code	x(num)	y(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+0	Response	1	-1333	-331	412419	412419	NA
+0	Response	2	-1781	205	415698	415698	NA
+0	Response	1	-1280	-73	420659	420659	NA
+0	Response	2	-1280	-73	423418	423418	NA
+0	Response	1	-1818	163	427738	427738	NA
+0	Response	2	-1818	163	428578	428578	NA
+0	Response	1	-943	189	429978	429978	NA
+0	Response	2	-660	-359	431259	431259	NA
+0	Response	1	-1250	347	434138	434138	NA
+0	Response	2	-1306	-478	442138	442138	NA
+1	Picture	start			449329	0	1	500	1	0	next	other	0
+1	Response	1	-906	-413	450139	810	NA
+1	Response	2	-1446	-249	453059	3729	NA
+2	Picture	stim			474319	0	1	167	1	0	next	other	0
+2	Response	1	-947	-155	550579	76259	NA
+2	Response	2	-1419	-67	552578	78259	NA
+2	Response	1	-1847	114	553859	79539	NA
+2	Response	2	-1837	122	555978	81659	NA
+2	Response	1	-760	402	559139	84819	NA
+2	Response	2	-760	402	560899	86579	NA
+2	Quit				805051	330731	NA

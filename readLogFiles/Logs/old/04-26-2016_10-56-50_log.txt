@@ -1,0 +1,8 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoDrinking_itm.txt
+COND:	Shuffle1_cnd.txt
+DATE:	04/26/2016 10:56:50
+Showing conditions: 1-->20.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	0	RVal:	9	

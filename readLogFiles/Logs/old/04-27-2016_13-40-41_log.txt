@@ -1,0 +1,37 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cagetraingimg_itm.txt
+COND:	Shuffle2_cnd.txt
+DATE:	04/27/2016 13:40:41
+Showing conditions: 1-->20.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	0	RVal:	1	Rsp:	Left	Start:	1193	End:	10782	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	1	RVal:	0	Rsp:	Left	Start:	10878	End:	20195	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	9	RVal:	0	Rsp:	Left	Start:	20292	End:	33123	END
+Trl:	4	Blk:	1	Cnd:	4	Rsp:	StartCueMiss	Start:	33219	End:	41904	END
+Trl:	5	Blk:	1	Cnd:	4	LVal:	9	RVal:	0	Rsp:	Right	Start:	42003	End:	50083	END
+Trl:	6	Blk:	1	Cnd:	5	LVal:	0	RVal:	9	Rsp:	Right	Start:	50181	End:	63695	END
+Trl:	7	Blk:	1	Cnd:	6	LVal:	9	RVal:	1	Rsp:	Left	Start:	63790	End:	77806	END
+Trl:	8	Blk:	1	Cnd:	7	LVal:	5	RVal:	9	Rsp:	Left	Start:	77901	End:	89902	END
+Trl:	9	Blk:	1	Cnd:	8	LVal:	1	RVal:	0	Rsp:	Left	Start:	89997	End:	101231	END
+Trl:	10	Blk:	1	Cnd:	9	Rsp:	StartCueMiss	Start:	101327	End:	113393	END
+Trl:	11	Blk:	1	Cnd:	9	Rsp:	StartCueMiss	Start:	113490	End:	120874	END
+Trl:	12	Blk:	1	Cnd:	9	Rsp:	StartCueMiss	Start:	120972	End:	133036	END
+Trl:	13	Blk:	1	Cnd:	9	Rsp:	StartCueMiss	Start:	133134	End:	141799	END
+Trl:	14	Blk:	1	Cnd:	9	LVal:	1	RVal:	5	Rsp:	Right	Start:	141895	End:	152294	END
+Trl:	15	Blk:	1	Cnd:	10	LVal:	5	RVal:	1	Rsp:	Left	Start:	152394	End:	162574	END
+Trl:	16	Blk:	1	Cnd:	11	Rsp:	StartCueMiss	Start:	162672	End:	171621	END
+Trl:	17	Blk:	1	Cnd:	11	LVal:	0	RVal:	1	Rsp:	Left	Start:	171719	End:	181617	END
+Trl:	18	Blk:	1	Cnd:	12	Rsp:	StartCueMiss	Start:	181716	End:	189448	END
+Trl:	19	Blk:	1	Cnd:	12	LVal:	5	RVal:	9	Rsp:	Left	Start:	189547	End:	201676	END
+Trl:	20	Blk:	1	Cnd:	13	LVal:	1	RVal:	9	Rsp:	Right	Start:	201780	End:	216353	END
+Trl:	21	Blk:	1	Cnd:	14	LVal:	0	RVal:	5	Rsp:	Right	Start:	216452	End:	226783	END
+Trl:	22	Blk:	1	Cnd:	15	LVal:	5	RVal:	9	Rsp:	Right	Start:	226881	End:	237962	END
+Trl:	23	Blk:	1	Cnd:	16	Rsp:	StartCueMiss	Start:	238059	End:	245843	END
+Trl:	24	Blk:	1	Cnd:	16	LVal:	1	RVal:	0	Rsp:	Right	Start:	245941	End:	254705	END
+Trl:	25	Blk:	1	Cnd:	17	LVal:	1	RVal:	9	Rsp:	Right	Start:	254805	End:	266151	END
+Trl:	26	Blk:	1	Cnd:	18	Rsp:	StartCueMiss	Start:	266250	End:	274532	END
+Trl:	27	Blk:	1	Cnd:	18	LVal:	5	RVal:	1	Rsp:	Left	Start:	274632	End:	288443	END
+Trl:	28	Blk:	1	Cnd:	19	LVal:	0	RVal:	5	Rsp:	Right	Start:	288542	End:	299538	END
+Trl:	29	Blk:	1	Cnd:	20	LVal:	5	RVal:	0	Rsp:	Left	Start:	299636	End:	311267	END
+PROGRAM EXIT

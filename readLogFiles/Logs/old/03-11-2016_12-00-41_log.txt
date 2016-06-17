@@ -1,0 +1,31 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	sharpieAndTennisRacket_itm.txt
+COND:	test_cnd2.txt
+DATE:	03/11/2016 12:00:41
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Left	Start:	1014	End:	10167	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Right	Start:	10172	End:	19650	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Right	Start:	19655	End:	29033	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Left	Start:	29038	End:	38516	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Right	Start:	38521	End:	47882	END
+Trl:	6	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	47887	End:	59915	END
+Trl:	7	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	59920	End:	71965	END
+Trl:	8	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	71970	End:	84015	END
+Trl:	9	Blk:	1	Cnd:	6	LVal:	1	RVal:	8	Rsp:	Right	Start:	84020	End:	93381	END
+Trl:	10	Blk:	1	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Right	Start:	93386	End:	100664	END
+Trl:	11	Blk:	1	Cnd:	8	LVal:	1	RVal:	8	Rsp:	Left	Start:	100669	End:	107997	END
+Trl:	12	Blk:	1	Cnd:	9	Rsp:	StartCueMiss	Start:	108002	End:	120030	END
+Trl:	13	Blk:	1	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Left	Start:	120035	End:	133929	END
+Trl:	14	Blk:	1	Cnd:	10	LVal:	8	RVal:	1	Rsp:	Left	Start:	133935	End:	143579	END
+Trl:	15	Blk:	2	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Left	Start:	143585	End:	153095	END
+Trl:	16	Blk:	2	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Right	Start:	153101	End:	161762	END
+Trl:	17	Blk:	2	Cnd:	3	LVal:	8	RVal:	1	Rsp:	Left	Start:	161767	End:	171228	END
+Trl:	18	Blk:	2	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Left	Start:	171233	End:	180961	END
+Trl:	19	Blk:	2	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Right	Start:	180966	End:	190511	END
+Trl:	20	Blk:	2	Cnd:	6	LVal:	1	RVal:	8	Rsp:	Right	Start:	190517	End:	199910	END
+Trl:	21	Blk:	2	Cnd:	7	LVal:	1	RVal:	8	Rsp:	Right	Start:	199915	End:	209343	END
+Trl:	22	Blk:	2	Cnd:	8	LVal:	8	RVal:	1	Rsp:	Left	Start:	209348	End:	219876	END
+Trl:	23	Blk:	2	Cnd:	9	LVal:	1	RVal:	8	Rsp:	Right	Start:	219881	End:	229259	END
+Trl:	24	Blk:	2	Cnd:	10	LVal:	8	RVal:	1	Rsp:	Left	Start:	229265	End:	238726	END

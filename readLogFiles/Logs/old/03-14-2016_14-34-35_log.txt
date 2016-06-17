@@ -1,0 +1,5 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	bananasAndPencils_itm.txt
+COND:	twoSetsOfTenComplexCompare_cnd.txt
+DATE:	03/14/2016 14:34:35

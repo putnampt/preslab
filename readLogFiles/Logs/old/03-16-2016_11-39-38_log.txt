@@ -1,0 +1,7 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoEatingThings_itm.txt
+COND:	firstFiveMixedFour_cnd.txt
+DATE:	03/16/2016 11:39:38
+Showing ALL conditions.
+Starting Task

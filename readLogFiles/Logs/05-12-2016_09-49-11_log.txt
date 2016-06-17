@@ -1,0 +1,5 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	test_itm.txt
+COND:	test_cnd.txt
+DATE:	05/12/2016 09:49:11

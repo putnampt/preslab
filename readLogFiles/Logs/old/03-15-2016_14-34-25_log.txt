@@ -1,0 +1,8 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	poolAndMom_itm.txt
+COND:	simpleFirstFiveCompare_cnd.txt
+DATE:	03/15/2016 14:34:25
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	

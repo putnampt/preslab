@@ -1,0 +1,30 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice4_itm.txt
+COND:	movieChoice4_cnd.txt
+DATE:	06/16/2016 12:09:05
+Showing conditions: 111-->130.
+MagicNumbers:	193	42	13	138	237	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	111	LVal:	0	RVal:	8	LName:	NS_sprycn4	RName:	NS_vc4	Rsp:	Right	Start:	1628	End:	18129	END
+Trl:	1	Blk:	1	Cnd:	112	LVal:	0	RVal:	3	LName:	5S_128ls2	RName:	5S_129th	Rsp:	Right	Start:	18608	End:	33673	END
+Trl:	2	Blk:	1	Cnd:	113	LVal:	3	RVal:	0	LName:	5S_129ne2	RName:	5S_128ne2	Rsp:	Right	Start:	34202	End:	48134	END
+Trl:	3	Blk:	1	Cnd:	114	LVal:	8	RVal:	0	LName:	5S_131ne2	RName:	5S_128th	Rsp:	Right	Start:	48661	End:	62529	END
+Trl:	4	Blk:	1	Cnd:	115	LVal:	0	RVal:	3	LName:	NS_sprycn2	RName:	NS_tsttub3	Rsp:	Left	Start:	62988	End:	77240	END
+Trl:	5	Blk:	1	Cnd:	116	LVal:	3	RVal:	8	LName:	5S_129ls	RName:	5S_131ne2	Rsp:	StartCueMiss	Start:	77749	End:	85970	END
+Trl:	6	Blk:	1	Cnd:	116	LVal:	3	RVal:	8	LName:	5S_129ls	RName:	5S_131ne2	Rsp:	Left	Start:	86438	End:	102014	END
+Trl:	7	Blk:	1	Cnd:	117	LVal:	8	RVal:	0	LName:	NS_vc2	RName:	NS_sprycn6	Rsp:	Left	Start:	102451	End:	118974	END
+Trl:	8	Blk:	1	Cnd:	118	LVal:	3	RVal:	0	LName:	NS_tsttub3	RName:	NS_sprycn1	Rsp:	Left	Start:	119392	End:	134268	END
+Trl:	9	Blk:	1	Cnd:	119	LVal:	8	RVal:	3	LName:	5S_131ne	RName:	5S_129ne2	Rsp:	Left	Start:	134766	End:	151179	END
+Trl:	10	Blk:	1	Cnd:	120	LVal:	3	RVal:	8	LName:	NS_tsttub3	RName:	NS_vc4	Rsp:	Left	Start:	151592	End:	166456	END
+Trl:	11	Blk:	1	Cnd:	121	LVal:	3	RVal:	8	LName:	5S_129ne2	RName:	5S_131ne	Rsp:	Right	Start:	166953	End:	183700	END
+Trl:	12	Blk:	1	Cnd:	122	LVal:	0	RVal:	3	LName:	5S_128ls2	RName:	5S_129ls2	Rsp:	Right	Start:	184223	End:	199094	END
+Trl:	13	Blk:	1	Cnd:	123	LVal:	3	RVal:	0	LName:	NS_tsttub4	RName:	NS_sprycn4	Rsp:	Right	Start:	199500	End:	213355	END
+Trl:	14	Blk:	1	Cnd:	124	LVal:	0	RVal:	8	LName:	5S_128ne2	RName:	5S_131ne2	Rsp:	Left	Start:	213879	End:	228899	END
+Trl:	15	Blk:	1	Cnd:	125	LVal:	3	RVal:	8	LName:	NS_tsttub4	RName:	NS_vc3	Rsp:	Left	Start:	229328	End:	244160	END
+Trl:	16	Blk:	1	Cnd:	126	LVal:	0	RVal:	3	LName:	NS_sprycn4	RName:	NS_tsttub1	Rsp:	Ignore	Start:	244579	End:	260805	END
+Trl:	17	Blk:	1	Cnd:	127	LVal:	8	RVal:	3	LName:	NS_vc3	RName:	NS_tsttub5	Rsp:	Early	Start:	261223	End:	272617	END
+Trl:	18	Blk:	1	Cnd:	128	LVal:	0	RVal:	8	LName:	NS_sprycn6	RName:	NS_vc6	Rsp:	Right	Start:	273036	End:	289660	END
+Trl:	19	Blk:	1	Cnd:	129	LVal:	8	RVal:	3	LName:	5S_131ls	RName:	5S_129ls	Rsp:	Left	Start:	290171	End:	306537	END
+Trl:	20	Blk:	1	Cnd:	130	LVal:	3	RVal:	0	LName:	5S_129th2	RName:	5S_128ne2	Rsp:	Right	Start:	307065	End:	320981	END
+PROGRAM EXIT

@@ -1,0 +1,16 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice1_itm.txt
+COND:	movieChoice1_cnd.txt
+DATE:	05/31/2016 11:50:50
+Showing conditions: 341-->350.
+MagicNumbers:	171	217	225	111	105	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	341	LVal:	8	RVal:	0	LName:	5S_63ls2	RName:	5S_59th	Rsp:	Right	Start:	1721	End:	15880	END
+Trl:	1	Blk:	1	Cnd:	342	LVal:	0	RVal:	8	LName:	5S_59ls2	RName:	5S_63ls	Rsp:	Ignore	Start:	16379	End:	32974	END
+Trl:	2	Blk:	1	Cnd:	343	LVal:	3	RVal:	0	LName:	5S_61ne	RName:	5S_59th2	Rsp:	Ignore	Start:	33489	End:	50234	END
+Trl:	3	Blk:	1	Cnd:	344	LVal:	8	RVal:	3	LName:	5S_63th	RName:	5S_61ls2	Rsp:	startCueIgnore	Start:	50770	End:	63345	END
+Trl:	4	Blk:	1	Cnd:	344	LVal:	8	RVal:	3	LName:	5S_63th	RName:	5S_61ls2	Rsp:	Ignore	Start:	63839	End:	80390	END
+Trl:	5	Blk:	1	Cnd:	345	LVal:	0	RVal:	8	LName:	5S_59ne2	RName:	5S_63ls2	Rsp:	startCueIgnore	Start:	80904	End:	93484	END
+Trl:	6	Blk:	1	Cnd:	345	LVal:	0	RVal:	8	LName:	5S_59ne2	RName:	5S_63ls2	Rsp:	startCueIgnore	Start:	93954	End:	106529	END
+Trl:	7	Blk:	1	Cnd:	345	LVal:	0	RVal:	8	LName:	5S_59ne2	RName:	5S_63ls2	

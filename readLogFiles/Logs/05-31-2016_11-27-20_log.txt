@@ -1,0 +1,28 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice1_itm.txt
+COND:	movieChoice1_cnd.txt
+DATE:	05/31/2016 11:27:20
+Showing conditions: 311-->320.
+MagicNumbers:	238	23	171	244	168	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	311	LVal:	8	RVal:	3	LName:	NS_wtrbttl4	RName:	NS_wrstrppr4	Rsp:	Left	Start:	1562	End:	18029	END
+Trl:	1	Blk:	1	Cnd:	312	LVal:	3	RVal:	0	LName:	NS_wrstrppr6	RName:	NS_whttp4	Rsp:	startCueIgnore	Start:	18411	End:	30991	END
+Trl:	2	Blk:	1	Cnd:	312	LVal:	3	RVal:	0	LName:	NS_wrstrppr6	RName:	NS_whttp4	Rsp:	Left	Start:	31411	End:	46401	END
+Trl:	3	Blk:	1	Cnd:	313	LVal:	0	RVal:	8	LName:	5S_59ne	RName:	5S_63ls	Rsp:	Early	Start:	46928	End:	57198	END
+Trl:	4	Blk:	1	Cnd:	314	LVal:	0	RVal:	3	LName:	5S_59th	RName:	5S_61ls	Rsp:	StartCueMiss	Start:	57727	End:	66960	END
+Trl:	5	Blk:	1	Cnd:	314	LVal:	0	RVal:	3	LName:	5S_59th	RName:	5S_61ls	Rsp:	Ignore	Start:	67427	End:	84188	END
+Trl:	6	Blk:	1	Cnd:	315	LVal:	0	RVal:	3	LName:	NS_whttp2	RName:	NS_wrstrppr6	Rsp:	StartCueMiss	Start:	84630	End:	93217	END
+Trl:	7	Blk:	1	Cnd:	315	LVal:	0	RVal:	3	LName:	NS_whttp2	RName:	NS_wrstrppr6	Rsp:	Ignore	Start:	93629	End:	110462	END
+Trl:	8	Blk:	1	Cnd:	316	LVal:	3	RVal:	8	LName:	NS_wrstrppr1	RName:	NS_wtrbttl4	Rsp:	startCueIgnore	Start:	110889	End:	123472	END
+Trl:	9	Blk:	1	Cnd:	316	LVal:	3	RVal:	8	LName:	NS_wrstrppr1	RName:	NS_wtrbttl4	Rsp:	Ignore	Start:	123879	End:	141117	END
+Trl:	10	Blk:	1	Cnd:	317	LVal:	0	RVal:	8	LName:	NS_whttp5	RName:	NS_wtrbttl5	Rsp:	Right	Start:	141547	End:	158109	END
+Trl:	11	Blk:	1	Cnd:	318	LVal:	8	RVal:	3	LName:	NS_wtrbttl5	RName:	NS_wrstrppr1	Rsp:	StartCueMiss	Start:	158509	End:	166773	END
+Trl:	12	Blk:	1	Cnd:	318	LVal:	8	RVal:	3	LName:	NS_wtrbttl5	RName:	NS_wrstrppr1	Rsp:	Left	Start:	167178	End:	183816	END
+Trl:	13	Blk:	1	Cnd:	319	LVal:	0	RVal:	3	LName:	NS_whttp5	RName:	NS_wrstrppr6	Rsp:	StartCueMiss	Start:	184241	End:	192380	END
+Trl:	14	Blk:	1	Cnd:	319	LVal:	0	RVal:	3	LName:	NS_whttp5	RName:	NS_wrstrppr6	Rsp:	StartCueMiss	Start:	192783	End:	201643	END
+Trl:	15	Blk:	1	Cnd:	319	LVal:	0	RVal:	3	LName:	NS_whttp5	RName:	NS_wrstrppr6	Rsp:	StartCueMiss	Start:	202054	End:	210089	END
+Trl:	16	Blk:	1	Cnd:	319	LVal:	0	RVal:	3	LName:	NS_whttp5	RName:	NS_wrstrppr6	Rsp:	StartCueMiss	Start:	210521	End:	218786	END
+Trl:	17	Blk:	1	Cnd:	319	LVal:	0	RVal:	3	LName:	NS_whttp5	RName:	NS_wrstrppr6	Rsp:	Ignore	Start:	219206	End:	237230	END
+Trl:	18	Blk:	1	Cnd:	320	LVal:	3	RVal:	8	LName:	NS_wrstrppr2	RName:	NS_wtrbttl3	Rsp:	Ignore	Start:	237648	End:	254374	END
+PROGRAM EXIT

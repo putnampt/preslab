@@ -1,0 +1,5 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	cagetraingimg_itm.txt
+COND:	Shuffle2_cnd.txt
+DATE:	05/12/2016 09:40:20

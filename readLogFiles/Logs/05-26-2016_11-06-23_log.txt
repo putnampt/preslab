@@ -1,0 +1,30 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoiceTraining1_itm.txt
+COND:	movieChoiceTraining1_cnd.txt
+DATE:	05/26/2016 11:06:23
+Showing conditions: 101-->120.
+MagicNumbers:	166	59	16	114	190	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	101	LVal:	3	RVal:	1	LName:	MC_dvs06B	RName:	MC_cybrds4A	Rsp:	Left	Start:	1606	End:	16496	END
+Trl:	1	Blk:	1	Cnd:	102	LVal:	3	RVal:	0	LName:	MC_dvs05B	RName:	MC_cybchmm1B	Rsp:	Early	Start:	16932	End:	27209	END
+Trl:	2	Blk:	1	Cnd:	103	LVal:	1	RVal:	5	LName:	MC_cybrds5B	RName:	MC_cykdintrs2B	Rsp:	Right	Start:	27668	End:	43253	END
+Trl:	3	Blk:	1	Cnd:	104	LVal:	8	RVal:	5	LName:	MC_cypnsflckrA	RName:	MC_cykdintrs1B	Rsp:	Left	Start:	43698	End:	60063	END
+Trl:	4	Blk:	1	Cnd:	105	LVal:	8	RVal:	0	LName:	MC_cypnsflckrB	RName:	MC_cybchmm2B	Rsp:	Ignore	Start:	60481	End:	77058	END
+Trl:	5	Blk:	1	Cnd:	106	LVal:	5	RVal:	1	LName:	MC_cykdintrs1A	RName:	MC_cybrds5A	Rsp:	Left	Start:	77479	End:	92950	END
+Trl:	6	Blk:	1	Cnd:	107	LVal:	8	RVal:	5	LName:	MC_cypnsplyngB	RName:	MC_cykdintrs2A	Rsp:	Left	Start:	93385	End:	109777	END
+Trl:	7	Blk:	1	Cnd:	108	LVal:	1	RVal:	5	LName:	MC_cybrds4B	RName:	MC_cykdintrs1B	Rsp:	Right	Start:	110211	End:	125721	END
+Trl:	8	Blk:	1	Cnd:	109	LVal:	8	RVal:	1	LName:	MC_kjB	RName:	MC_kvnB	Rsp:	Ignore	Start:	126196	End:	143116	END
+Trl:	9	Blk:	1	Cnd:	110	LVal:	1	RVal:	8	LName:	MC_cybrds4B	RName:	MC_cypnsplyngA	Rsp:	startCueIgnore	Start:	143515	End:	156093	END
+Trl:	10	Blk:	1	Cnd:	110	LVal:	1	RVal:	8	LName:	MC_cybrds4B	RName:	MC_cypnsplyngA	Rsp:	Right	Start:	156511	End:	174486	END
+Trl:	11	Blk:	1	Cnd:	111	LVal:	3	RVal:	0	LName:	MC_dvs05B	RName:	MC_cybchmm1A	Rsp:	Left	Start:	174917	End:	189814	END
+Trl:	12	Blk:	1	Cnd:	112	LVal:	0	RVal:	8	LName:	MC_cybchmm1A	RName:	MC_cypnsplyngB	Rsp:	Right	Start:	190250	End:	206757	END
+Trl:	13	Blk:	1	Cnd:	113	LVal:	5	RVal:	1	LName:	MC_cykdintrs2A	RName:	MC_cybrds4A	Rsp:	Left	Start:	207179	End:	222751	END
+Trl:	14	Blk:	1	Cnd:	114	LVal:	1	RVal:	8	LName:	MC_cybrds4A	RName:	MC_cypnsplyngA	Rsp:	Right	Start:	223169	End:	239828	END
+Trl:	15	Blk:	1	Cnd:	115	LVal:	0	RVal:	1	LName:	MC_cybchmm1A	RName:	MC_cybrds4B	Rsp:	Ignore	Start:	240251	End:	256856	END
+Trl:	16	Blk:	1	Cnd:	116	LVal:	1	RVal:	0	LName:	MC_cybrds4A	RName:	MC_cybchmm2A	Rsp:	Ignore	Start:	257261	End:	273683	END
+Trl:	17	Blk:	1	Cnd:	117	LVal:	5	RVal:	1	LName:	MC_cykdintrs1B	RName:	MC_cybrds4B	Rsp:	Left	Start:	274137	End:	289059	END
+Trl:	18	Blk:	1	Cnd:	118	LVal:	3	RVal:	1	LName:	MC_dvs06B	RName:	MC_cybrds4B	Rsp:	Left	Start:	289481	End:	304603	END
+Trl:	19	Blk:	1	Cnd:	119	LVal:	5	RVal:	8	LName:	MC_cykdintrs1B	RName:	MC_cypnsplyngA	Rsp:	Ignore	Start:	305025	End:	321465	END
+Trl:	20	Blk:	1	Cnd:	120	LVal:	0	RVal:	1	LName:	MC_jckB	RName:	MC_kvnA	Rsp:	Left	Start:	321918	End:	335642	END
+PROGRAM EXIT

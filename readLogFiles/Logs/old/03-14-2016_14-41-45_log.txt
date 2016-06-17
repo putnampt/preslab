@@ -1,0 +1,29 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	applesAndRoses_itm.txt
+COND:	test_cnd.txt
+DATE:	03/14/2016 14:41:45
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	Rsp:	StartCueMiss	Start:	1014	End:	13050	END
+Trl:	2	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Right	Start:	13055	End:	24083	END
+Trl:	3	Blk:	1	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Right	Start:	24090	End:	34733	END
+Trl:	4	Blk:	1	Cnd:	3	LVal:	8	RVal:	1	Rsp:	Right	Start:	34738	End:	44083	END
+Trl:	5	Blk:	1	Cnd:	4	LVal:	1	RVal:	8	Rsp:	Right	Start:	44088	End:	53749	END
+Trl:	6	Blk:	1	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Right	Start:	53754	End:	63382	END
+Trl:	7	Blk:	1	Cnd:	6	LVal:	1	RVal:	8	Rsp:	Right	Start:	63387	End:	72965	END
+Trl:	8	Blk:	1	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Left	Start:	72970	End:	83548	END
+Trl:	9	Blk:	1	Cnd:	8	LVal:	1	RVal:	8	Rsp:	Right	Start:	83554	End:	93297	END
+Trl:	10	Blk:	1	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Left	Start:	93302	End:	103197	END
+Trl:	11	Blk:	1	Cnd:	10	LVal:	8	RVal:	1	Rsp:	Left	Start:	103204	End:	113463	END
+Trl:	12	Blk:	2	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Right	Start:	113468	End:	120897	END
+Trl:	13	Blk:	2	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Left	Start:	120902	End:	128180	END
+Trl:	14	Blk:	2	Cnd:	3	LVal:	8	RVal:	1	Rsp:	Right	Start:	128185	End:	135613	END
+Trl:	15	Blk:	2	Cnd:	4	LVal:	1	RVal:	8	Rsp:	Left	Start:	135618	End:	143012	END
+Trl:	16	Blk:	2	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Right	Start:	143017	End:	150662	END
+Trl:	17	Blk:	2	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Right	Start:	150667	End:	157945	END
+Trl:	18	Blk:	2	Cnd:	7	LVal:	1	RVal:	8	Rsp:	Right	Start:	157950	End:	167395	END
+Trl:	19	Blk:	2	Cnd:	8	LVal:	1	RVal:	8	Rsp:	Right	Start:	167400	End:	176728	END
+Trl:	20	Blk:	2	Cnd:	9	LVal:	1	RVal:	8	Rsp:	Right	Start:	176733	End:	186194	END
+Trl:	21	Blk:	2	Cnd:	10	LVal:	8	RVal:	1	Rsp:	Left	Start:	186199	End:	195527	END
+PROGRAM EXIT

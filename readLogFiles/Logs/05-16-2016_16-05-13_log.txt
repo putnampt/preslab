@@ -1,0 +1,12 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoMonkeysPair_itm.txt
+COND:	test_cnd.txt
+DATE:	05/16/2016 16:05:13
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	2	Rsp:	Ignore	Start:	3293	End:	13582	END
+Trl:	2	Blk:	1	Cnd:	3	Rsp:	Ignore	Start:	14074	End:	32175	END
+Trl:	3	Blk:	1	Cnd:	4	Rsp:	Ignore	Start:	32671	End:	50784	END
+Trl:	4	Blk:	1	Cnd:	1	Rsp:	Ignore	Start:	51266	End:	69377	END
+PROGRAM EXIT

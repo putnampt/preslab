@@ -1,0 +1,24 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice4_itm.txt
+COND:	movieChoice4_cnd.txt
+DATE:	06/16/2016 12:40:20
+Showing conditions: 211-->220.
+MagicNumbers:	70	161	22	238	121	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	211	LVal:	3	RVal:	0	LName:	NS_tsttub3	RName:	NS_sprycn6	Rsp:	StartCueMiss	Start:	1608	End:	9999	END
+Trl:	1	Blk:	1	Cnd:	211	LVal:	3	RVal:	0	LName:	NS_tsttub3	RName:	NS_sprycn6	Rsp:	Left	Start:	10410	End:	25409	END
+Trl:	2	Blk:	1	Cnd:	212	LVal:	8	RVal:	3	LName:	NS_vc4	RName:	NS_tsttub6	Rsp:	Early	Start:	25828	End:	38172	END
+Trl:	3	Blk:	1	Cnd:	213	LVal:	3	RVal:	8	LName:	5S_129ne2	RName:	5S_131ls	Rsp:	Ignore	Start:	38719	End:	55183	END
+Trl:	4	Blk:	1	Cnd:	214	LVal:	0	RVal:	3	LName:	NS_sprycn6	RName:	NS_tsttub4	Rsp:	startCueIgnore	Start:	55628	End:	68210	END
+Trl:	5	Blk:	1	Cnd:	214	LVal:	0	RVal:	3	LName:	NS_sprycn6	RName:	NS_tsttub4	Rsp:	StartCueMiss	Start:	68613	End:	76490	END
+Trl:	6	Blk:	1	Cnd:	214	LVal:	0	RVal:	3	LName:	NS_sprycn6	RName:	NS_tsttub4	Rsp:	Left	Start:	76877	End:	90918	END
+Trl:	7	Blk:	1	Cnd:	215	LVal:	8	RVal:	3	LName:	5S_131ne2	RName:	5S_129ne2	Rsp:	Left	Start:	91472	End:	110361	END
+Trl:	8	Blk:	1	Cnd:	216	LVal:	0	RVal:	8	LName:	NS_sprycn6	RName:	NS_vc3	Rsp:	startCueIgnore	Start:	110818	End:	123389	END
+Trl:	9	Blk:	1	Cnd:	216	LVal:	0	RVal:	8	LName:	NS_sprycn6	RName:	NS_vc3	Rsp:	Ignore	Start:	123804	End:	140417	END
+Trl:	10	Blk:	1	Cnd:	217	LVal:	0	RVal:	8	LName:	NS_sprycn2	RName:	NS_vc6	Rsp:	Right	Start:	140828	End:	157276	END
+Trl:	11	Blk:	1	Cnd:	218	LVal:	3	RVal:	8	LName:	NS_tsttub5	RName:	NS_vc2	Rsp:	Right	Start:	157689	End:	174087	END
+Trl:	12	Blk:	1	Cnd:	219	LVal:	3	RVal:	0	LName:	5S_129th	RName:	5S_128th	Rsp:	startCueIgnore	Start:	174576	End:	187148	END
+Trl:	13	Blk:	1	Cnd:	219	LVal:	3	RVal:	0	LName:	5S_129th	RName:	5S_128th	Rsp:	Right	Start:	187608	End:	202509	END
+Trl:	14	Blk:	1	Cnd:	220	LVal:	3	RVal:	0	LName:	NS_tsttub1	RName:	NS_sprycn1	Rsp:	Early	Start:	202928	End:	215339	END
+PROGRAM EXIT

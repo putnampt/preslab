@@ -1,0 +1,36 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoEatingThings_itm.txt
+COND:	Shuffle2_cnd.txt
+DATE:	04/28/2016 11:01:00
+Showing conditions: 21-->40.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	Rsp:	StartCueMiss	Start:	1194	End:	10183	END
+Trl:	2	Blk:	1	Cnd:	1	LVal:	9	RVal:	0	Rsp:	Left	Start:	10285	End:	23094	END
+Trl:	3	Blk:	1	Cnd:	2	LVal:	1	RVal:	0	Rsp:	Left	Start:	23196	End:	35506	END
+Trl:	4	Blk:	1	Cnd:	3	LVal:	1	RVal:	9	Rsp:	Right	Start:	35609	End:	52482	END
+Trl:	5	Blk:	1	Cnd:	4	LVal:	5	RVal:	0	Rsp:	Right	Start:	52587	End:	62645	END
+Trl:	6	Blk:	1	Cnd:	5	LVal:	5	RVal:	1	Rsp:	Right	Start:	62768	End:	74207	END
+Trl:	7	Blk:	1	Cnd:	6	LVal:	0	RVal:	5	Rsp:	Right	Start:	74308	End:	85587	END
+Trl:	8	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	85689	End:	98749	END
+Trl:	9	Blk:	1	Cnd:	7	LVal:	0	RVal:	1	Rsp:	Right	Start:	98852	End:	110160	END
+Trl:	10	Blk:	1	Cnd:	8	LVal:	5	RVal:	0	Rsp:	Ignore	Start:	110262	End:	127388	END
+Trl:	11	Blk:	1	Cnd:	9	LVal:	9	RVal:	0	Rsp:	Left	Start:	127489	End:	140049	END
+Trl:	12	Blk:	1	Cnd:	10	LVal:	0	RVal:	5	Rsp:	Right	Start:	140150	End:	152161	END
+Trl:	13	Blk:	1	Cnd:	11	LVal:	9	RVal:	5	Rsp:	Left	Start:	152263	End:	169038	END
+Trl:	14	Blk:	1	Cnd:	12	LVal:	9	RVal:	0	Rsp:	Left	Start:	169141	End:	182683	END
+Trl:	15	Blk:	1	Cnd:	13	LVal:	1	RVal:	5	Rsp:	Right	Start:	182785	End:	194812	END
+Trl:	16	Blk:	1	Cnd:	14	Rsp:	StartCueMiss	Start:	194916	End:	203926	END
+Trl:	17	Blk:	1	Cnd:	14	LVal:	9	RVal:	1	Rsp:	Left	Start:	204029	End:	216570	END
+Trl:	18	Blk:	1	Cnd:	15	LVal:	5	RVal:	1	Rsp:	Right	Start:	216675	End:	226616	END
+Trl:	19	Blk:	1	Cnd:	16	LVal:	1	RVal:	5	Rsp:	Right	Start:	226719	End:	238678	END
+Trl:	20	Blk:	1	Cnd:	17	LVal:	9	RVal:	1	Rsp:	Left	Start:	238781	End:	251740	END
+Trl:	21	Blk:	1	Cnd:	18	Rsp:	StartCueMiss	Start:	251846	End:	260871	END
+Trl:	22	Blk:	1	Cnd:	18	Rsp:	StartCueMiss	Start:	260974	End:	274032	END
+Trl:	23	Blk:	1	Cnd:	18	LVal:	0	RVal:	9	Rsp:	Right	Start:	274138	End:	286510	END
+Trl:	24	Blk:	1	Cnd:	19	Rsp:	StartCueMiss	Start:	286612	End:	296024	END
+Trl:	25	Blk:	1	Cnd:	19	Rsp:	StartCueMiss	Start:	296128	End:	305054	END
+Trl:	26	Blk:	1	Cnd:	19	LVal:	0	RVal:	1	Rsp:	Right	Start:	305157	End:	317898	END
+Trl:	27	Blk:	1	Cnd:	20	Rsp:	StartCueMiss	Start:	318003	End:	326929	END
+Trl:	28	Blk:	1	Cnd:	20	LVal:	9	RVal:	1	Rsp:	Left	Start:	327034	End:	339673	END
+PROGRAM EXIT

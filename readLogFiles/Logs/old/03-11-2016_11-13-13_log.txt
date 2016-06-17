@@ -1,0 +1,32 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	bananasAndPencils_itm.txt
+COND:	test_cnd.txt
+DATE:	03/11/2016 11:13:13
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Miss	Start:	1013	End:	9834	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	9839	End:	24350	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Left	Start:	24355	End:	35333	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	35338	End:	49916	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Left	Start:	49921	End:	59899	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Right	Start:	59904	End:	68221	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Right	Start:	68227	End:	75748	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	1	RVal:	8	Rsp:	Left	Start:	75754	End:	84148	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Right	Start:	84153	End:	91798	END
+Trl:	10	Blk:	1	Cnd:	10	LVal:	8	RVal:	1	Rsp:	Left	Start:	91803	End:	101447	END
+Trl:	11	Blk:	2	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Left	Start:	101452	End:	108964	END
+Trl:	12	Blk:	2	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	108969	End:	122980	END
+Trl:	13	Blk:	2	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Left	Start:	122985	End:	130430	END
+Trl:	14	Blk:	2	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Right	Start:	130435	End:	137979	END
+Trl:	15	Blk:	2	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Left	Start:	137984	End:	145996	END
+Trl:	16	Blk:	2	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	146001	End:	159945	END
+Trl:	17	Blk:	2	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	159950	End:	173862	END
+Trl:	18	Blk:	2	Cnd:	8	Rsp:	StartCueMiss	Start:	173868	End:	185911	END
+Trl:	19	Blk:	2	Cnd:	8	LVal:	8	RVal:	1	Rsp:	Right	Start:	185917	End:	194211	END
+Trl:	20	Blk:	2	Cnd:	9	Rsp:	StartCueMiss	Start:	194216	End:	206260	END
+Trl:	21	Blk:	2	Cnd:	9	Rsp:	StartCueMiss	Start:	206265	End:	218293	END
+Trl:	22	Blk:	2	Cnd:	9	Rsp:	StartCueMiss	Start:	218298	End:	230343	END
+Trl:	23	Blk:	2	Cnd:	9	Rsp:	StartCueMiss	Start:	230348	End:	242376	END
+Trl:	24	Blk:	2	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Miss	Start:	242381	End:	253059	END
+Trl:	25	Blk:	2	Cnd:	10	LVal:	1	RVal:	8	Rsp:	Left	Start:	253064	End:	260625	END

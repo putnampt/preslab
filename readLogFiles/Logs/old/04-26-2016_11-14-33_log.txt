@@ -1,0 +1,28 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoEatingThings_itm.txt
+COND:	Shuffle1_cnd.txt
+DATE:	04/26/2016 11:14:33
+Showing conditions: 1-->20.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	0	RVal:	1	Rsp:	Left	Start:	1246	End:	12881	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	0	RVal:	5	Rsp:	Left	Start:	13031	End:	22544	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	0	RVal:	9	Rsp:	Right	Start:	22675	End:	35955	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	5	RVal:	9	Rsp:	Left	Start:	36087	End:	49100	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	5	RVal:	1	Rsp:	Miss	Start:	49233	End:	61647	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	5	RVal:	9	Rsp:	Right	Start:	61799	End:	72658	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	0	RVal:	1	Rsp:	Ignore	Start:	72788	End:	88970	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	9	RVal:	1	Rsp:	Left	Start:	89099	End:	101181	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	0	RVal:	9	Rsp:	Right	Start:	101287	End:	112893	END
+Trl:	10	Blk:	1	Cnd:	10	LVal:	1	RVal:	5	Rsp:	Left	Start:	112997	End:	122822	END
+Trl:	11	Blk:	1	Cnd:	11	LVal:	1	RVal:	5	Rsp:	Left	Start:	122958	End:	131136	END
+Trl:	12	Blk:	1	Cnd:	12	LVal:	0	RVal:	5	Rsp:	Right	Start:	131244	End:	141448	END
+Trl:	13	Blk:	1	Cnd:	13	LVal:	5	RVal:	1	Rsp:	Left	Start:	141572	End:	152378	END
+Trl:	14	Blk:	1	Cnd:	14	LVal:	0	RVal:	1	Rsp:	Right	Start:	152508	End:	160991	END
+Trl:	15	Blk:	1	Cnd:	15	LVal:	0	RVal:	5	Rsp:	Right	Start:	161095	End:	172187	END
+Trl:	16	Blk:	1	Cnd:	16	LVal:	1	RVal:	5	Rsp:	Right	Start:	172295	End:	182583	END
+Trl:	17	Blk:	1	Cnd:	17	LVal:	5	RVal:	0	Rsp:	Left	Start:	182687	End:	193262	END
+Trl:	18	Blk:	1	Cnd:	18	LVal:	5	RVal:	1	Rsp:	Left	Start:	193365	End:	203791	END
+Trl:	19	Blk:	1	Cnd:	19	LVal:	9	RVal:	0	Rsp:	Right	Start:	203915	End:	212355	END
+Trl:	20	Blk:	1	Cnd:	20	LVal:	0	RVal:	5	Rsp:	Right	Start:	212483	End:	224750	END
+PROGRAM EXIT

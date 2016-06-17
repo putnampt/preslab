@@ -1,0 +1,25 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice1_itm.txt
+COND:	movieChoice1_cnd.txt
+DATE:	05/27/2016 12:24:00
+Showing conditions: 191-->200.
+MagicNumbers:	155	19	146	160	78	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	191	LVal:	3	RVal:	0	LName:	NS_wrstrppr3	RName:	NS_whttp5	Rsp:	StartCueMiss	Start:	1568	End:	9815	END
+Trl:	1	Blk:	1	Cnd:	191	LVal:	3	RVal:	0	LName:	NS_wrstrppr3	RName:	NS_whttp5	Rsp:	StartCueMiss	Start:	10224	End:	20361	END
+Trl:	2	Blk:	1	Cnd:	191	LVal:	3	RVal:	0	LName:	NS_wrstrppr3	RName:	NS_whttp5	Rsp:	Ignore	Start:	20787	End:	37273	END
+Trl:	3	Blk:	1	Cnd:	192	LVal:	0	RVal:	3	LName:	NS_whttp1	RName:	NS_wrstrppr4	Rsp:	startCueIgnore	Start:	37706	End:	50283	END
+Trl:	4	Blk:	1	Cnd:	192	LVal:	0	RVal:	3	LName:	NS_whttp1	RName:	NS_wrstrppr4	Rsp:	startCueIgnore	Start:	50693	End:	63262	END
+Trl:	5	Blk:	1	Cnd:	192	LVal:	0	RVal:	3	LName:	NS_whttp1	RName:	NS_wrstrppr4	Rsp:	startCueIgnore	Start:	63662	End:	76240	END
+Trl:	6	Blk:	1	Cnd:	192	LVal:	0	RVal:	3	LName:	NS_whttp1	RName:	NS_wrstrppr4	Rsp:	Right	Start:	76643	End:	94283	END
+Trl:	7	Blk:	1	Cnd:	193	LVal:	8	RVal:	0	LName:	5S_63th	RName:	5S_59ls2	Rsp:	startCueIgnore	Start:	94787	End:	107362	END
+Trl:	8	Blk:	1	Cnd:	193	LVal:	8	RVal:	0	LName:	5S_63th	RName:	5S_59ls2	Rsp:	Right	Start:	107843	End:	123239	END
+Trl:	9	Blk:	1	Cnd:	194	LVal:	0	RVal:	3	LName:	5S_59ne2	RName:	5S_61th	Rsp:	startCueIgnore	Start:	123744	End:	136317	END
+Trl:	10	Blk:	1	Cnd:	194	LVal:	0	RVal:	3	LName:	5S_59ne2	RName:	5S_61th	Rsp:	startCueIgnore	Start:	136815	End:	149396	END
+Trl:	11	Blk:	1	Cnd:	194	LVal:	0	RVal:	3	LName:	5S_59ne2	RName:	5S_61th	Rsp:	startCueIgnore	Start:	149878	End:	162457	END
+Trl:	12	Blk:	1	Cnd:	194	LVal:	0	RVal:	3	LName:	5S_59ne2	RName:	5S_61th	Rsp:	startCueIgnore	Start:	162923	End:	175502	END
+Trl:	13	Blk:	1	Cnd:	194	LVal:	0	RVal:	3	LName:	5S_59ne2	RName:	5S_61th	Rsp:	startCueIgnore	Start:	175984	End:	188564	END
+Trl:	14	Blk:	1	Cnd:	194	LVal:	0	RVal:	3	LName:	5S_59ne2	RName:	5S_61th	Rsp:	startCueIgnore	Start:	189068	End:	201626	END
+Trl:	15	Blk:	1	Cnd:	194	LVal:	0	RVal:	3	LName:	5S_59ne2	RName:	5S_61th	Rsp:	startCueIgnore	Start:	202099	End:	214671	END
+Trl:	16	Blk:	1	Cnd:	194	LVal:	0	RVal:	3	LName:	5S_59ne2	RName:	5S_61th	

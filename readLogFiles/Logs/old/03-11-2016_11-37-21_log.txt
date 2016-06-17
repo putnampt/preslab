@@ -1,0 +1,34 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	sharpieAndTennisRacket_itm.txt
+COND:	test_cnd.txt
+DATE:	03/11/2016 11:37:21
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	1014	End:	14967	END
+Trl:	2	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	14972	End:	27016	END
+Trl:	3	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	27021	End:	39066	END
+Trl:	4	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	39071	End:	51099	END
+Trl:	5	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	51104	End:	63149	END
+Trl:	6	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	63154	End:	75181	END
+Trl:	7	Blk:	1	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	75186	End:	89664	END
+Trl:	8	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Right	Start:	89669	End:	101364	END
+Trl:	9	Blk:	1	Cnd:	4	LVal:	1	RVal:	8	Rsp:	Right	Start:	101369	End:	111080	END
+Trl:	10	Blk:	1	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Left	Start:	111085	End:	121630	END
+Trl:	11	Blk:	1	Cnd:	6	LVal:	1	RVal:	8	Rsp:	Left	Start:	121635	End:	129980	END
+Trl:	12	Blk:	1	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	129985	End:	143912	END
+Trl:	13	Blk:	1	Cnd:	8	Rsp:	StartCueMiss	Start:	143918	End:	155945	END
+Trl:	14	Blk:	1	Cnd:	8	LVal:	8	RVal:	1	Rsp:	Left	Start:	155950	End:	166778	END
+Trl:	15	Blk:	1	Cnd:	9	LVal:	1	RVal:	8	Rsp:	Right	Start:	166783	End:	176611	END
+Trl:	16	Blk:	1	Cnd:	10	LVal:	8	RVal:	1	Rsp:	Left	Start:	176618	End:	186144	END
+Trl:	17	Blk:	2	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Right	Start:	186149	End:	195827	END
+Trl:	18	Blk:	2	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Left	Start:	195832	End:	206060	END
+Trl:	19	Blk:	2	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Right	Start:	206065	End:	215627	END
+Trl:	20	Blk:	2	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Left	Start:	215633	End:	225093	END
+Trl:	21	Blk:	2	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Left	Start:	225098	End:	234643	END
+Trl:	22	Blk:	2	Cnd:	6	Rsp:	StartCueMiss	Start:	234648	End:	246692	END
+Trl:	23	Blk:	2	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Left	Start:	246697	End:	256109	END
+Trl:	24	Blk:	2	Cnd:	7	LVal:	1	RVal:	8	Rsp:	Left	Start:	256114	End:	263492	END
+Trl:	25	Blk:	2	Cnd:	8	LVal:	1	RVal:	8	Rsp:	Right	Start:	263497	End:	273208	END
+Trl:	26	Blk:	2	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Left	Start:	273213	End:	282824	END
+Trl:	27	Blk:	2	Cnd:	10	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	282830	End:	296841	END

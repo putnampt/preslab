@@ -1,0 +1,28 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	babiesAndButt_itm.txt
+COND:	simpleFirstFiveCompare_cnd.txt
+DATE:	03/15/2016 12:22:55
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Left	Start:	1018	End:	10667	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Left	Start:	10676	End:	18050	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	8	RVal:	1	Rsp:	Right	Start:	18059	End:	25316	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Right	Start:	25325	End:	32683	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Left	Start:	32693	End:	42216	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	1	RVal:	8	Rsp:	Left	Start:	42225	End:	49632	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	1	RVal:	8	Rsp:	Right	Start:	49641	End:	58932	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	1	RVal:	8	Rsp:	Left	Start:	58941	End:	66298	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Right	Start:	66307	End:	73581	END
+Trl:	10	Blk:	1	Cnd:	10	LVal:	8	RVal:	1	Rsp:	Right	Start:	73593	End:	80865	END
+Trl:	11	Blk:	2	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Left	Start:	80874	End:	90348	END
+Trl:	12	Blk:	2	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Right	Start:	90357	End:	99664	END
+Trl:	13	Blk:	2	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Left	Start:	99673	End:	107080	END
+Trl:	14	Blk:	2	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Right	Start:	107090	End:	114030	END
+Trl:	15	Blk:	2	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Left	Start:	114039	End:	123796	END
+Trl:	16	Blk:	2	Cnd:	6	LVal:	1	RVal:	8	Rsp:	Right	Start:	123805	End:	133946	END
+Trl:	17	Blk:	2	Cnd:	7	LVal:	1	RVal:	8	Rsp:	Left	Start:	133955	End:	141346	END
+Trl:	18	Blk:	2	Cnd:	8	LVal:	1	RVal:	8	Rsp:	Right	Start:	141355	End:	151495	END
+Trl:	19	Blk:	2	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Left	Start:	151504	End:	161128	END
+Trl:	20	Blk:	2	Cnd:	10	LVal:	8	RVal:	1	Rsp:	Miss	Start:	161137	End:	170962	END
+PROGRAM EXIT

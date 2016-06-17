@@ -1,0 +1,7 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	bananasAndPencils_itm.txt
+COND:	Shuffle1_cnd.txt
+DATE:	04/26/2016 11:12:18
+Showing conditions: 1-->20.
+Starting Task

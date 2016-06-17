@@ -1,0 +1,11 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	sharpieAndTennisRacket_itm.txt
+COND:	test_cnd.txt
+DATE:	03/11/2016 11:42:33
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Right	Start:	1014	End:	9350	END
+Trl:	2	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	9356	End:	21383	END
+Trl:	3	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	21388	End:	33433	END
+Trl:	4	Blk:	1	Cnd:	2	

@@ -1,0 +1,32 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoEatingThings_itm.txt
+COND:	firstFiveMixedFour_cnd.txt
+DATE:	03/17/2016 10:17:07
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	3	RVal:	0	Rsp:	Right	Start:	1108	End:	9000	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	3	RVal:	0	Rsp:	Miss	Start:	9095	End:	20667	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	3	RVal:	6	Rsp:	Left	Start:	20764	End:	30216	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	3	RVal:	6	Rsp:	Left	Start:	30314	End:	39983	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	6	RVal:	8	Rsp:	Right	Start:	40096	End:	50899	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	8	RVal:	0	Rsp:	Right	Start:	50995	End:	59232	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	0	RVal:	6	Rsp:	Left	Start:	59334	End:	67849	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	3	RVal:	6	Rsp:	Right	Start:	67945	End:	78348	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	8	RVal:	3	Rsp:	Right	Start:	78443	End:	87765	END
+Trl:	10	Blk:	1	Cnd:	10	LVal:	3	RVal:	6	Rsp:	Left	Start:	87861	End:	97365	END
+Trl:	11	Blk:	1	Cnd:	11	LVal:	0	RVal:	8	Rsp:	Left	Start:	97461	End:	106098	END
+Trl:	12	Blk:	1	Cnd:	12	LVal:	8	RVal:	6	Rsp:	Right	Start:	106193	End:	116581	END
+Trl:	13	Blk:	1	Cnd:	13	LVal:	6	RVal:	0	Rsp:	Right	Start:	116676	End:	125214	END
+Trl:	14	Blk:	1	Cnd:	14	LVal:	6	RVal:	3	Rsp:	Left	Start:	125310	End:	135797	END
+Trl:	15	Blk:	1	Cnd:	15	LVal:	0	RVal:	3	Rsp:	Left	Start:	135893	End:	144780	END
+Trl:	16	Blk:	1	Cnd:	16	LVal:	0	RVal:	3	Rsp:	Right	Start:	144878	End:	154230	END
+Trl:	17	Blk:	1	Cnd:	17	Rsp:	StartCueMiss	Start:	154325	End:	166346	END
+Trl:	18	Blk:	1	Cnd:	17	Rsp:	StartCueMiss	Start:	166443	End:	178496	END
+Trl:	19	Blk:	1	Cnd:	17	Rsp:	StartCueMiss	Start:	178592	End:	190629	END
+Trl:	20	Blk:	1	Cnd:	17	Rsp:	StartCueMiss	Start:	190724	End:	202745	END
+Trl:	21	Blk:	1	Cnd:	17	Rsp:	StartCueMiss	Start:	202839	End:	214878	END
+Trl:	22	Blk:	1	Cnd:	17	LVal:	6	RVal:	3	Rsp:	Right	Start:	214972	End:	224694	END
+Trl:	23	Blk:	1	Cnd:	18	LVal:	8	RVal:	0	Rsp:	Right	Start:	224789	End:	233261	END
+Trl:	24	Blk:	1	Cnd:	19	LVal:	6	RVal:	0	Rsp:	Left	Start:	233357	End:	243760	END
+Trl:	25	Blk:	1	Cnd:	20	LVal:	3	RVal:	8	

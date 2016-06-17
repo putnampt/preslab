@@ -1,0 +1,27 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	bananasAndPencils_itm.txt
+COND:	test_cnd2.txt
+DATE:	03/11/2016 12:21:36
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Left	Start:	1014	End:	8284	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Left	Start:	8290	End:	17683	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Right	Start:	17688	End:	27633	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Left	Start:	27644	End:	37049	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Right	Start:	37054	End:	44449	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	1	RVal:	8	Rsp:	Left	Start:	44454	End:	51766	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	1	RVal:	8	Rsp:	Left	Start:	51771	End:	58982	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	8	RVal:	1	Rsp:	Right	Start:	58987	End:	66332	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Left	Start:	66338	End:	75748	END
+Trl:	10	Blk:	1	Cnd:	10	LVal:	1	RVal:	8	Rsp:	Left	Start:	75753	End:	83064	END
+Trl:	11	Blk:	2	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Left	Start:	83069	End:	90364	END
+Trl:	12	Blk:	2	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Left	Start:	90369	End:	97747	END
+Trl:	13	Blk:	2	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Left	Start:	97752	End:	105014	END
+Trl:	14	Blk:	2	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Left	Start:	105019	End:	114597	END
+Trl:	15	Blk:	2	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Left	Start:	114602	End:	121863	END
+Trl:	16	Blk:	2	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Left	Start:	121868	End:	131229	END
+Trl:	17	Blk:	2	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Left	Start:	131234	End:	140629	END
+Trl:	18	Blk:	2	Cnd:	8	LVal:	8	RVal:	1	Rsp:	Left	Start:	140634	End:	150145	END
+Trl:	19	Blk:	2	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Left	Start:	150150	End:	159595	END
+Trl:	20	Blk:	2	Cnd:	10	LVal:	1	RVal:	8	Rsp:	Left	Start:	159600	End:	166962	END

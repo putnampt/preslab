@@ -1,0 +1,24 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoiceTraining1_itm.txt
+COND:	movieChoiceTraining1_cnd.txt
+DATE:	05/24/2016 12:05:56
+Showing conditions: 201-->211.
+MagicNumbers:	179	217	158	247	169	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	201	LVal:	8	RVal:	1	LName:	MC_cypnsflckrA	RName:	MC_cybrds4B	Rsp:	StartCueMiss	Start:	1610	End:	9482	END
+Trl:	1	Blk:	1	Cnd:	201	LVal:	8	RVal:	1	LName:	MC_cypnsflckrA	RName:	MC_cybrds4B	Rsp:	Left	Start:	9893	End:	26176	END
+Trl:	2	Blk:	1	Cnd:	202	LVal:	0	RVal:	5	LName:	MC_cybchmm1B	RName:	MC_cykdintrs2A	Rsp:	Early	Start:	26615	End:	36939	END
+Trl:	3	Blk:	1	Cnd:	203	LVal:	0	RVal:	8	LName:	MC_cybchmm2B	RName:	MC_cypnsplyngB	Rsp:	Early	Start:	37361	End:	48418	END
+Trl:	4	Blk:	1	Cnd:	204	LVal:	3	RVal:	8	LName:	MC_dvs06B	RName:	MC_cypnsflckrA	Rsp:	Right	Start:	48843	End:	65094	END
+Trl:	5	Blk:	1	Cnd:	205	LVal:	1	RVal:	8	LName:	MC_cybrds5B	RName:	MC_cypnsplyngA	Rsp:	Right	Start:	65531	End:	82604	END
+Trl:	6	Blk:	1	Cnd:	206	LVal:	0	RVal:	3	LName:	MC_cybchmm1A	RName:	MC_dvs05B	Rsp:	StartCueMiss	Start:	83020	End:	91351	END
+Trl:	7	Blk:	1	Cnd:	206	LVal:	0	RVal:	3	LName:	MC_cybchmm1A	RName:	MC_dvs05B	Rsp:	Early	Start:	91784	End:	102414	END
+Trl:	8	Blk:	1	Cnd:	207	LVal:	1	RVal:	5	LName:	MC_kvnA	RName:	MC_kmA	Rsp:	Ignore	Start:	102832	End:	120791	END
+Trl:	9	Blk:	1	Cnd:	208	LVal:	5	RVal:	0	LName:	MC_cykdintrs1A	RName:	MC_cybchmm1A	Rsp:	StartCueMiss	Start:	121217	End:	129370	END
+Trl:	10	Blk:	1	Cnd:	208	LVal:	5	RVal:	0	LName:	MC_cykdintrs1A	RName:	MC_cybchmm1A	Rsp:	Left	Start:	129770	End:	144981	END
+Trl:	11	Blk:	1	Cnd:	209	LVal:	5	RVal:	3	LName:	MC_cykdintrs1B	RName:	MC_dvs06A	Rsp:	Ignore	Start:	145408	End:	161942	END
+Trl:	12	Blk:	1	Cnd:	210	LVal:	8	RVal:	1	LName:	MC_cypnsplyngB	RName:	MC_cybrds5B	Rsp:	Early	Start:	162345	End:	172721	END
+Trl:	13	Blk:	1	Cnd:	211	LVal:	3	RVal:	8	LName:	MC_dvs05A	RName:	MC_cypnsplyngA	Rsp:	StartCueMiss	Start:	173144	End:	184199	END
+Trl:	14	Blk:	1	Cnd:	211	LVal:	3	RVal:	8	LName:	MC_dvs05A	RName:	MC_cypnsplyngA	Rsp:	Right	Start:	184629	End:	201543	END
+PROGRAM EXIT

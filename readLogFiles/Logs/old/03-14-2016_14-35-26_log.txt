@@ -1,0 +1,34 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	mainCoonAndGermanShepard_itm.txt
+COND:	test_cnd.txt
+DATE:	03/14/2016 14:35:26
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	1034	End:	14400	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	14407	End:	28600	END
+Trl:	3	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	28609	End:	40666	END
+Trl:	4	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	40675	End:	52699	END
+Trl:	5	Blk:	1	Cnd:	3	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	52708	End:	68832	END
+Trl:	6	Blk:	1	Cnd:	4	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	68840	End:	82881	END
+Trl:	7	Blk:	1	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Right	Start:	82897	End:	92514	END
+Trl:	8	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	92521	End:	104564	END
+Trl:	9	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	104571	End:	116597	END
+Trl:	10	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	116604	End:	128630	END
+Trl:	11	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	128637	End:	140679	END
+Trl:	12	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	140687	End:	152712	END
+Trl:	13	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	152719	End:	164762	END
+Trl:	14	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	164769	End:	176795	END
+Trl:	15	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	176802	End:	188828	END
+Trl:	16	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	188835	End:	200877	END
+Trl:	17	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	200884	End:	212910	END
+Trl:	18	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	212917	End:	224960	END
+Trl:	19	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	224967	End:	236993	END
+Trl:	20	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	237000	End:	249026	END
+Trl:	21	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	249033	End:	261075	END
+Trl:	22	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	261082	End:	273108	END
+Trl:	23	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	273115	End:	285158	END
+Trl:	24	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	285165	End:	297191	END
+Trl:	25	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	297198	End:	309224	END
+Trl:	26	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	309231	End:	321273	END
+Trl:	27	Blk:	1	Cnd:	6	

@@ -1,0 +1,11 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoiceTraining1_itm.txt
+COND:	movieChoiceTraining1_cnd.txt
+DATE:	05/23/2016 13:58:20
+Showing conditions: 161-->170.
+MagicNumbers:	47	86	194	241	161	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	161	LVal:	3	RVal:	8	LName:	MC_dvs06A	RName:	MC_cypnsflckrA	Rsp:	startCueIgnore	Start:	1613	End:	14180	END
+Trl:	1	Blk:	1	Cnd:	161	LVal:	3	RVal:	8	LName:	MC_dvs06A	RName:	MC_cypnsflckrA	Rsp:	startCueIgnore	Start:	14591	End:	27159	END
+Trl:	2	Blk:	1	Cnd:	161	LVal:	3	RVal:	8	LName:	MC_dvs06A	RName:	MC_cypnsflckrA	

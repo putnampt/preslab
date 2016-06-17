@@ -1,0 +1,24 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoiceTraining1_itm.txt
+COND:	movieChoiceTraining1_cnd.txt
+DATE:	05/17/2016 15:04:53
+Showing conditions: 151-->160.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	151	Rsp:	StartCueMiss	Start:	1534	End:	14114	END
+Trl:	2	Blk:	1	Cnd:	151	Rsp:	StartCueMiss	Start:	14545	End:	27109	END
+Trl:	3	Blk:	1	Cnd:	151	Rsp:	StartCueMiss	Start:	27525	End:	40104	END
+Trl:	4	Blk:	1	Cnd:	151	Rsp:	StartCueMiss	Start:	40531	End:	53099	END
+Trl:	5	Blk:	1	Cnd:	151	Rsp:	StartCueMiss	Start:	53516	End:	66094	END
+Trl:	6	Blk:	1	Cnd:	151	Rsp:	StartCueMiss	Start:	66514	End:	79089	END
+Trl:	7	Blk:	1	Cnd:	151	Rsp:	Early	Start:	79503	End:	94784	END
+Trl:	8	Blk:	1	Cnd:	152	Rsp:	StartCueMiss	Start:	95204	End:	107778	END
+Trl:	9	Blk:	1	Cnd:	152	Rsp:	StartCueMiss	Start:	108202	End:	120773	END
+Trl:	10	Blk:	1	Cnd:	152	Rsp:	StartCueMiss	Start:	121187	End:	133768	END
+Trl:	11	Blk:	1	Cnd:	152	Rsp:	StartCueMiss	Start:	134188	End:	146763	END
+Trl:	12	Blk:	1	Cnd:	152	Rsp:	StartCueMiss	Start:	147190	End:	159758	END
+Trl:	13	Blk:	1	Cnd:	152	Rsp:	StartCueMiss	Start:	160175	End:	172753	END
+Trl:	14	Blk:	1	Cnd:	152	Rsp:	StartCueMiss	Start:	173171	End:	185748	END
+Trl:	15	Blk:	1	Cnd:	152	Rsp:	StartCueMiss	Start:	186158	End:	198727	END
+Trl:	16	Blk:	1	Cnd:	152	Rsp:	StartCueMiss	Start:	199142	End:	211722	END
+Trl:	17	Blk:	1	Cnd:	152	

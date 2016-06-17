@@ -1,0 +1,11 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	applesRosesCoonsShepards_itm.txt
+COND:	mixedSetCompare_cnd.txt
+DATE:	03/15/2016 11:39:07
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	Rsp:	StartCueMiss	Start:	1015	End:	8367	END
+Trl:	2	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	8374	End:	22467	END
+Trl:	3	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	22476	End:	36566	END
+Trl:	4	Blk:	1	Cnd:	3	LVal:	8	RVal:	1	Rsp:	Left	Start:	36571	End:	46616	END

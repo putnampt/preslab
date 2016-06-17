@@ -1,0 +1,24 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cowAndHorse_itm.txt
+COND:	simpleFirstFiveCompare_cnd.txt
+DATE:	03/15/2016 11:48:39
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	1017	End:	17117	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	17126	End:	33366	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	33373	End:	49582	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	49589	End:	65765	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	65774	End:	82115	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	82124	End:	98364	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	98373	End:	114814	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	114823	End:	130963	END
+Trl:	9	Blk:	1	Cnd:	9	Rsp:	StartCueMiss	Start:	130972	End:	143013	END
+Trl:	10	Blk:	1	Cnd:	9	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	143022	End:	159379	END
+Trl:	11	Blk:	1	Cnd:	10	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	159388	End:	177878	END
+Trl:	12	Blk:	2	Cnd:	1	Rsp:	StartCueMiss	Start:	177887	End:	189928	END
+Trl:	13	Blk:	2	Cnd:	1	Rsp:	StartCueMiss	Start:	189937	End:	201961	END
+Trl:	14	Blk:	2	Cnd:	1	Rsp:	StartCueMiss	Start:	201970	End:	213993	END
+Trl:	15	Blk:	2	Cnd:	1	Rsp:	StartCueMiss	Start:	214002	End:	226043	END
+Trl:	16	Blk:	2	Cnd:	1	Rsp:	StartCueMiss	Start:	226052	End:	238076	END
+Trl:	17	Blk:	2	Cnd:	1	

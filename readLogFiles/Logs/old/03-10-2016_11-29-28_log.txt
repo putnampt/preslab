@@ -1,0 +1,11 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	test_itm.txt
+COND:	test_cnd.txt
+DATE:	03/10/2016 11:29:28
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	Rsp:	StartCueMiss	Start:	1048	End:	13117	END
+Trl:	2	Blk:	1	Cnd:	1	Rsp:	StartCueMiss	Start:	13122	End:	25150	END
+Trl:	3	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	25156	End:	41949	END
+Trl:	4	Blk:	1	Cnd:	2	

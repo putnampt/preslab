@@ -1,0 +1,14 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	applesRosesCoonsShepards_itm.txt
+COND:	test_cnd3.txt
+DATE:	03/14/2016 15:25:41
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Left	Start:	1016	End:	10967	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Left	Start:	10974	End:	20783	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Right	Start:	20788	End:	30633	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	1	RVal:	8	Rsp:	Right	Start:	30638	End:	40449	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Left	Start:	40454	End:	50066	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	50075	End:	63999	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	64006	End:	78031	END

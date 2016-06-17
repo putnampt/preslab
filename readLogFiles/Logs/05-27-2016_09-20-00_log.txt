@@ -1,0 +1,9 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice1_itm.txt
+COND:	movieChoice1_cnd.txt
+DATE:	05/27/2016 09:20:00
+Showing conditions: 
+MagicNumbers:	162	27	36	45	222	
+Starting Task
+PROGRAM EXIT

@@ -1,0 +1,33 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cagetraingimg_itm.txt
+COND:	Shuffle1_cnd.txt
+DATE:	04/27/2016 12:46:05
+Showing conditions: 41-->60.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	0	RVal:	5	Rsp:	Left	Start:	1183	End:	10199	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	1	RVal:	0	Rsp:	Left	Start:	10298	End:	19278	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	5	RVal:	1	Rsp:	Left	Start:	19374	End:	29941	END
+Trl:	4	Blk:	1	Cnd:	4	Rsp:	StartCueMiss	Start:	30036	End:	37789	END
+Trl:	5	Blk:	1	Cnd:	4	LVal:	5	RVal:	9	Rsp:	Miss	Start:	37892	End:	48718	END
+Trl:	6	Blk:	1	Cnd:	5	LVal:	0	RVal:	1	Rsp:	Left	Start:	48813	End:	57397	END
+Trl:	7	Blk:	1	Cnd:	6	LVal:	9	RVal:	0	Rsp:	Left	Start:	57523	End:	70292	END
+Trl:	8	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	70389	End:	78390	END
+Trl:	9	Blk:	1	Cnd:	7	LVal:	0	RVal:	9	Rsp:	Right	Start:	78487	End:	89652	END
+Trl:	10	Blk:	1	Cnd:	8	LVal:	1	RVal:	0	Rsp:	Left	Start:	89749	End:	99048	END
+Trl:	11	Blk:	1	Cnd:	9	Rsp:	StartCueMiss	Start:	99145	End:	106679	END
+Trl:	12	Blk:	1	Cnd:	9	LVal:	0	RVal:	9	Rsp:	Left	Start:	106776	End:	115025	END
+Trl:	13	Blk:	1	Cnd:	10	LVal:	5	RVal:	1	Rsp:	Left	Start:	115123	End:	125338	END
+Trl:	14	Blk:	1	Cnd:	11	LVal:	1	RVal:	9	Rsp:	Miss	Start:	125435	End:	135385	END
+Trl:	15	Blk:	1	Cnd:	12	LVal:	1	RVal:	9	Rsp:	Miss	Start:	135481	End:	145065	END
+Trl:	16	Blk:	1	Cnd:	13	LVal:	0	RVal:	1	Rsp:	Right	Start:	145163	End:	154310	END
+Trl:	17	Blk:	1	Cnd:	14	LVal:	1	RVal:	9	Rsp:	Left	Start:	154409	End:	163707	END
+Trl:	18	Blk:	1	Cnd:	15	LVal:	1	RVal:	0	Rsp:	Right	Start:	163803	End:	172503	END
+Trl:	19	Blk:	1	Cnd:	16	Rsp:	StartCueMiss	Start:	172602	End:	181634	END
+Trl:	20	Blk:	1	Cnd:	16	LVal:	5	RVal:	9	Rsp:	Miss	Start:	181739	End:	191464	END
+Trl:	21	Blk:	1	Cnd:	17	LVal:	1	RVal:	5	Rsp:	Miss	Start:	191591	End:	200944	END
+Trl:	22	Blk:	1	Cnd:	18	Rsp:	StartCueMiss	Start:	201045	End:	209024	END
+Trl:	23	Blk:	1	Cnd:	18	LVal:	9	RVal:	5	Rsp:	Right	Start:	209124	End:	220335	END
+Trl:	24	Blk:	1	Cnd:	19	LVal:	1	RVal:	9	Rsp:	Left	Start:	220434	End:	229915	END
+Trl:	25	Blk:	1	Cnd:	20	LVal:	9	RVal:	1	Rsp:	Miss	Start:	230013	End:	240229	END
+PROGRAM EXIT

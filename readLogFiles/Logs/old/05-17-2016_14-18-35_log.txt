@@ -1,0 +1,18 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoiceTraining1_itm.txt
+COND:	movieChoiceTraining1_cnd.txt
+DATE:	05/17/2016 14:18:35
+Showing conditions: 101-->110.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	101	Rsp:	Left	Start:	1508	End:	17629	END
+Trl:	2	Blk:	1	Cnd:	102	Rsp:	Early	Start:	18077	End:	31108	END
+Trl:	3	Blk:	1	Cnd:	103	Rsp:	Right	Start:	31545	End:	46901	END
+Trl:	4	Blk:	1	Cnd:	104	Rsp:	Right	Start:	47353	End:	63028	END
+Trl:	5	Blk:	1	Cnd:	105	Rsp:	StartCueMiss	Start:	63432	End:	76007	END
+Trl:	6	Blk:	1	Cnd:	105	Rsp:	StartCueMiss	Start:	76414	End:	88985	END
+Trl:	7	Blk:	1	Cnd:	105	Rsp:	StartCueMiss	Start:	89390	End:	101964	END
+Trl:	8	Blk:	1	Cnd:	105	Rsp:	StartCueMiss	Start:	102373	End:	114942	END
+Trl:	9	Blk:	1	Cnd:	105	Rsp:	StartCueMiss	Start:	115350	End:	127920	END
+Trl:	10	Blk:	1	Cnd:	105	Rsp:	StartCueMiss	Start:	128326	End:	140899	END
+Trl:	11	Blk:	1	Cnd:	105	

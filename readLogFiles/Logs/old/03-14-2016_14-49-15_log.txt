@@ -1,0 +1,10 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	applesAndRoses_itm.txt
+COND:	test_cnd2.txt
+DATE:	03/14/2016 14:49:15
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	Rsp:	StartCueMiss	Start:	1052	End:	13117	END
+Trl:	2	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Left	Start:	13124	End:	24083	END
+Trl:	3	Blk:	1	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Right	Start:	24129	End:	34216	END

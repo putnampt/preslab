@@ -1,0 +1,12 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice2_itm.txt
+COND:	movieChoice2_cnd.txt
+DATE:	06/09/2016 12:44:02
+Showing conditions: 221-->230.
+MagicNumbers:	148	54	64	139	143	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	221	LVal:	3	RVal:	8	LName:	5S_138ls2	RName:	5S_91ls	Rsp:	Ignore	Start:	1709	End:	18430	END
+Trl:	1	Blk:	1	Cnd:	222	LVal:	0	RVal:	8	LName:	5S_70th	RName:	5S_91ls2	Rsp:	Right	Start:	18916	End:	35522	END
+Trl:	2	Blk:	1	Cnd:	223	LVal:	3	RVal:	8	LName:	NS_sltshkr1	RName:	NS_allgtrclp4	Rsp:	Ignore	Start:	35947	End:	53300	END
+Trl:	3	Blk:	1	Cnd:	224	LVal:	3	RVal:	0	LName:	5S_138ls2	RName:	5S_70th	

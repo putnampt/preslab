@@ -1,0 +1,24 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoiceTraining1_itm.txt
+COND:	movieChoiceTraining1_cnd.txt
+DATE:	05/17/2016 14:06:49
+Showing conditions: 91-->100.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	91	Rsp:	Left	Start:	1521	End:	18345	END
+Trl:	2	Blk:	1	Cnd:	92	Rsp:	Right	Start:	18782	End:	34523	END
+Trl:	3	Blk:	1	Cnd:	93	Rsp:	Ignore	Start:	34953	End:	52000	END
+Trl:	4	Blk:	1	Cnd:	94	Rsp:	Left	Start:	52445	End:	68243	END
+Trl:	5	Blk:	1	Cnd:	95	Rsp:	Left	Start:	68658	End:	85720	END
+Trl:	6	Blk:	1	Cnd:	96	Rsp:	Ignore	Start:	86161	End:	102831	END
+Trl:	7	Blk:	1	Cnd:	97	Rsp:	Right	Start:	103285	End:	119107	END
+Trl:	8	Blk:	1	Cnd:	98	Rsp:	StartCueMiss	Start:	119518	End:	128354	END
+Trl:	9	Blk:	1	Cnd:	98	Rsp:	StartCueMiss	Start:	128767	End:	141349	END
+Trl:	10	Blk:	1	Cnd:	98	Rsp:	StartCueMiss	Start:	141756	End:	154327	END
+Trl:	11	Blk:	1	Cnd:	98	Rsp:	StartCueMiss	Start:	154724	End:	167305	END
+Trl:	12	Blk:	1	Cnd:	98	Rsp:	StartCueMiss	Start:	167707	End:	180284	END
+Trl:	13	Blk:	1	Cnd:	98	Rsp:	StartCueMiss	Start:	180677	End:	193229	END
+Trl:	14	Blk:	1	Cnd:	98	Rsp:	StartCueMiss	Start:	193628	End:	206207	END
+Trl:	15	Blk:	1	Cnd:	98	Rsp:	StartCueMiss	Start:	206597	End:	219169	END
+Trl:	16	Blk:	1	Cnd:	98	Rsp:	StartCueMiss	Start:	219570	End:	232147	END
+Trl:	17	Blk:	1	Cnd:	98	

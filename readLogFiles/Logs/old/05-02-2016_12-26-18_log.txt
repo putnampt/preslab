@@ -1,0 +1,32 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cagetraingimg_itm.txt
+COND:	Shuffle2_cnd.txt
+DATE:	05/02/2016 12:26:18
+Showing conditions: 41-->60.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	0	RVal:	5	Rsp:	Right	Start:	1179	End:	13531	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	0	RVal:	9	Rsp:	Right	Start:	13627	End:	27375	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	0	Rsp:	Right	Start:	27470	End:	38088	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	9	RVal:	5	Rsp:	Left	Start:	38184	End:	51699	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	5	RVal:	1	Rsp:	Left	Start:	51797	End:	64328	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	1	RVal:	5	Rsp:	Right	Start:	64429	End:	77673	END
+Trl:	7	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	77769	End:	87070	END
+Trl:	8	Blk:	1	Cnd:	7	LVal:	9	RVal:	0	Rsp:	Left	Start:	87169	End:	100364	END
+Trl:	9	Blk:	1	Cnd:	8	LVal:	9	RVal:	5	Rsp:	Left	Start:	100460	End:	117641	END
+Trl:	10	Blk:	1	Cnd:	9	LVal:	5	RVal:	1	Rsp:	Left	Start:	117736	End:	129886	END
+Trl:	11	Blk:	1	Cnd:	10	LVal:	1	RVal:	0	Rsp:	Right	Start:	129982	End:	142831	END
+Trl:	12	Blk:	1	Cnd:	11	LVal:	0	RVal:	1	Rsp:	Left	Start:	142930	End:	153611	END
+Trl:	13	Blk:	1	Cnd:	12	Rsp:	StartCueMiss	Start:	153709	End:	162241	END
+Trl:	14	Blk:	1	Cnd:	12	LVal:	5	RVal:	1	Rsp:	Left	Start:	162340	End:	175019	END
+Trl:	15	Blk:	1	Cnd:	13	Rsp:	StartCueMiss	Start:	175115	End:	185166	END
+Trl:	16	Blk:	1	Cnd:	13	LVal:	9	RVal:	0	Rsp:	Left	Start:	185266	End:	198843	END
+Trl:	17	Blk:	1	Cnd:	14	LVal:	0	RVal:	5	Rsp:	Right	Start:	198939	End:	213721	END
+Trl:	18	Blk:	1	Cnd:	15	LVal:	5	RVal:	9	Rsp:	Right	Start:	213819	End:	227849	END
+Trl:	19	Blk:	1	Cnd:	16	LVal:	5	RVal:	0	Rsp:	Left	Start:	227947	End:	240128	END
+Trl:	20	Blk:	1	Cnd:	17	LVal:	1	RVal:	0	Rsp:	Left	Start:	240230	End:	252473	END
+Trl:	21	Blk:	1	Cnd:	18	LVal:	1	RVal:	5	Rsp:	Right	Start:	252570	End:	264602	END
+Trl:	22	Blk:	1	Cnd:	19	Rsp:	StartCueMiss	Start:	264699	End:	273666	END
+Trl:	23	Blk:	1	Cnd:	19	LVal:	9	RVal:	5	Rsp:	Left	Start:	273765	End:	286977	END
+Trl:	24	Blk:	1	Cnd:	20	LVal:	0	RVal:	9	Rsp:	Right	Start:	287077	End:	300438	END
+PROGRAM EXIT

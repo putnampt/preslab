@@ -1,0 +1,7 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoMonkeysPair_itm.txt
+COND:	test_cnd.txt
+DATE:	05/16/2016 15:48:26
+Showing ALL conditions.
+Starting Task

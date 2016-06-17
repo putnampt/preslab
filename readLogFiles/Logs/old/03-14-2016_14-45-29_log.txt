@@ -1,0 +1,22 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	mainCoonAndGermanShepard_itm.txt
+COND:	test_cnd.txt
+DATE:	03/14/2016 14:45:29
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	1016	End:	15367	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	15376	End:	32916	END
+Trl:	3	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	32926	End:	44949	END
+Trl:	4	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	44960	End:	56999	END
+Trl:	5	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	57008	End:	69032	END
+Trl:	6	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	69041	End:	81081	END
+Trl:	7	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	81090	End:	93114	END
+Trl:	8	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	93123	End:	105147	END
+Trl:	9	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	105157	End:	117197	END
+Trl:	10	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	117206	End:	129230	END
+Trl:	11	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	129239	End:	141279	END
+Trl:	12	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	141288	End:	153312	END
+Trl:	13	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	153321	End:	165345	END
+Trl:	14	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	165354	End:	177395	END
+Trl:	15	Blk:	1	Cnd:	3	

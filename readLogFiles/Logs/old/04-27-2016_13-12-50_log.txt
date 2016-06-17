@@ -1,0 +1,32 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cagetraingimg_itm.txt
+COND:	Shuffle1_cnd.txt
+DATE:	04/27/2016 13:12:50
+Showing conditions: 1-->20.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	Rsp:	StartCueMiss	Start:	1188	End:	8583	END
+Trl:	2	Blk:	1	Cnd:	1	LVal:	5	RVal:	1	Rsp:	Left	Start:	8681	End:	18979	END
+Trl:	3	Blk:	1	Cnd:	2	LVal:	1	RVal:	5	Rsp:	Right	Start:	19078	End:	29241	END
+Trl:	4	Blk:	1	Cnd:	3	LVal:	5	RVal:	1	Rsp:	Left	Start:	29336	End:	39571	END
+Trl:	5	Blk:	1	Cnd:	4	LVal:	1	RVal:	5	Rsp:	Right	Start:	39665	End:	50467	END
+Trl:	6	Blk:	1	Cnd:	5	LVal:	0	RVal:	1	Rsp:	Right	Start:	50561	End:	61379	END
+Trl:	7	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	61473	End:	68977	END
+Trl:	8	Blk:	1	Cnd:	6	LVal:	9	RVal:	0	Rsp:	Left	Start:	69075	End:	81921	END
+Trl:	9	Blk:	1	Cnd:	7	LVal:	0	RVal:	5	Rsp:	Right	Start:	82015	End:	92667	END
+Trl:	10	Blk:	1	Cnd:	8	LVal:	0	RVal:	1	Rsp:	Right	Start:	92763	End:	104213	END
+Trl:	11	Blk:	1	Cnd:	9	LVal:	0	RVal:	5	Rsp:	Right	Start:	104319	End:	115492	END
+Trl:	12	Blk:	1	Cnd:	10	LVal:	0	RVal:	1	Rsp:	Right	Start:	115587	End:	126404	END
+Trl:	13	Blk:	1	Cnd:	11	LVal:	5	RVal:	9	Rsp:	Right	Start:	126503	End:	138666	END
+Trl:	14	Blk:	1	Cnd:	12	LVal:	5	RVal:	1	Rsp:	Left	Start:	138763	End:	150379	END
+Trl:	15	Blk:	1	Cnd:	13	Rsp:	StartCueMiss	Start:	150478	End:	158260	END
+Trl:	16	Blk:	1	Cnd:	13	LVal:	5	RVal:	9	Rsp:	Left	Start:	158358	End:	168538	END
+Trl:	17	Blk:	1	Cnd:	14	LVal:	0	RVal:	5	Rsp:	Right	Start:	168636	End:	180467	END
+Trl:	18	Blk:	1	Cnd:	15	LVal:	9	RVal:	1	Rsp:	Left	Start:	180563	End:	192496	END
+Trl:	19	Blk:	1	Cnd:	16	LVal:	0	RVal:	9	Rsp:	Right	Start:	192592	End:	205424	END
+Trl:	20	Blk:	1	Cnd:	17	Rsp:	StartCueMiss	Start:	205523	End:	213522	END
+Trl:	21	Blk:	1	Cnd:	17	LVal:	1	RVal:	5	Rsp:	Right	Start:	213619	End:	223767	END
+Trl:	22	Blk:	1	Cnd:	18	LVal:	0	RVal:	9	Rsp:	Right	Start:	223870	End:	235413	END
+Trl:	23	Blk:	1	Cnd:	19	LVal:	0	RVal:	5	Rsp:	Right	Start:	235514	End:	246309	END
+Trl:	24	Blk:	1	Cnd:	20	LVal:	5	RVal:	0	Rsp:	Left	Start:	246407	End:	259087	END
+PROGRAM EXIT

@@ -1,0 +1,8 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	applesRosesCoonsShepards_itm.txt
+COND:	test_cnd3.txt
+DATE:	03/14/2016 14:54:02
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	

@@ -1,0 +1,15 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cowAndHorse_itm.txt
+COND:	simpleFirstFiveCompare_cnd.txt
+DATE:	03/15/2016 11:46:40
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	1017	End:	15084	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	15105	End:	29266	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	8	RVal:	1	Rsp:	Left	Start:	29276	End:	40099	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Right	Start:	40108	End:	50132	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Right	Start:	50139	End:	61332	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Left	Start:	61341	End:	73215	END
+Trl:	7	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	73224	End:	85265	END
+Trl:	8	Blk:	1	Cnd:	7	LVal:	1	RVal:	8	

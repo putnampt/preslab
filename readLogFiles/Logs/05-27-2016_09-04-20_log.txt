@@ -1,0 +1,9 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoiceTraining1_itm.txt
+COND:	movieChoiceTraining1_cnd.txt
+DATE:	05/27/2016 09:04:20
+Showing conditions: 281-->299.
+MagicNumbers:	113	70	208	45	156	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	281	LVal:	0	RVal:	8	LName:	MC_cybchmm2A	RName:	MC_cypnsplyngA	

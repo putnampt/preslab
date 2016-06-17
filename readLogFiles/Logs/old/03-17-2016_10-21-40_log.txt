@@ -1,0 +1,33 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoEatingThings_itm.txt
+COND:	firstFiveMixedFour_cnd.txt
+DATE:	03/17/2016 10:21:40
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	3	RVal:	0	Rsp:	Left	Start:	1105	End:	16617	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	0	RVal:	8	Rsp:	Right	Start:	16711	End:	28067	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	0	RVal:	6	Rsp:	Right	Start:	28163	End:	38300	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	3	Rsp:	Right	Start:	38395	End:	47999	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	6	RVal:	0	Rsp:	Left	Start:	48095	End:	58582	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	6	RVal:	8	Rsp:	Left	Start:	58677	End:	69299	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	3	RVal:	0	Rsp:	Right	Start:	69394	End:	78098	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	8	RVal:	3	Rsp:	Left	Start:	78197	End:	89398	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	8	RVal:	6	Rsp:	Left	Start:	89492	End:	100531	END
+Trl:	10	Blk:	1	Cnd:	10	LVal:	6	RVal:	3	Rsp:	Right	Start:	100626	End:	109464	END
+Trl:	11	Blk:	1	Cnd:	11	LVal:	8	RVal:	3	Rsp:	Left	Start:	109559	End:	120780	END
+Trl:	12	Blk:	1	Cnd:	12	LVal:	8	RVal:	0	Rsp:	Right	Start:	120877	End:	129547	END
+Trl:	13	Blk:	1	Cnd:	13	LVal:	0	RVal:	8	Rsp:	Left	Start:	129642	End:	138330	END
+Trl:	14	Blk:	1	Cnd:	14	LVal:	3	RVal:	6	Rsp:	Right	Start:	138427	End:	148880	END
+Trl:	15	Blk:	1	Cnd:	15	LVal:	3	RVal:	6	Rsp:	Right	Start:	148974	End:	159346	END
+Trl:	16	Blk:	1	Cnd:	16	LVal:	3	RVal:	6	Rsp:	Left	Start:	159442	End:	169229	END
+Trl:	17	Blk:	1	Cnd:	17	LVal:	6	RVal:	8	Rsp:	Left	Start:	169324	End:	179779	END
+Trl:	18	Blk:	1	Cnd:	18	LVal:	0	RVal:	3	Rsp:	Left	Start:	179877	End:	188795	END
+Trl:	19	Blk:	1	Cnd:	19	LVal:	6	RVal:	0	Rsp:	Right	Start:	188891	End:	197445	END
+Trl:	20	Blk:	1	Cnd:	20	LVal:	6	RVal:	3	Rsp:	Right	Start:	197541	End:	206845	END
+Trl:	21	Blk:	1	Cnd:	21	LVal:	0	RVal:	6	Rsp:	Right	Start:	206941	End:	217428	END
+Trl:	22	Blk:	1	Cnd:	22	LVal:	0	RVal:	6	Rsp:	Right	Start:	217523	End:	227727	END
+Trl:	23	Blk:	1	Cnd:	23	LVal:	6	RVal:	8	Rsp:	Right	Start:	227823	End:	238844	END
+Trl:	24	Blk:	1	Cnd:	24	LVal:	0	RVal:	8	Rsp:	Right	Start:	238940	End:	249760	END
+Trl:	25	Blk:	1	Cnd:	25	LVal:	6	RVal:	3	Rsp:	Right	Start:	249856	End:	259210	END
+Trl:	26	Blk:	1	Cnd:	26	LVal:	6	RVal:	3	

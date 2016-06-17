@@ -1,0 +1,7 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	mainCoonAndGermanShepard_itm.txt
+COND:	test_cnd2.txt
+DATE:	03/14/2016 13:32:43
+Showing ALL conditions.
+Starting Task

@@ -1,0 +1,19 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice1_itm.txt
+COND:	movieChoice1_cnd.txt
+DATE:	06/01/2016 11:39:09
+Showing conditions: 71-->80.
+MagicNumbers:	106	78	8	82	16	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	71	LVal:	0	RVal:	3	LName:	5S_59th	RName:	5S_61th2	Rsp:	Right	Start:	1706	End:	16629	END
+Trl:	1	Blk:	1	Cnd:	72	LVal:	3	RVal:	8	LName:	5S_61ne	RName:	5S_63ne	Rsp:	Early	Start:	17161	End:	28476	END
+Trl:	2	Blk:	1	Cnd:	73	LVal:	3	RVal:	8	LName:	NS_wrstrppr4	RName:	NS_wtrbttl5	Rsp:	Early	Start:	28925	End:	44720	END
+Trl:	3	Blk:	1	Cnd:	74	LVal:	3	RVal:	8	LName:	NS_wrstrppr1	RName:	NS_wtrbttl2	Rsp:	Ignore	Start:	45144	End:	61547	END
+Trl:	4	Blk:	1	Cnd:	75	LVal:	8	RVal:	3	LName:	5S_63ne	RName:	5S_61ls2	Rsp:	Right	Start:	62049	End:	77007	END
+Trl:	5	Blk:	1	Cnd:	76	LVal:	0	RVal:	3	LName:	NS_whttp1	RName:	NS_wrstrppr2	Rsp:	Right	Start:	77437	End:	93650	END
+Trl:	6	Blk:	1	Cnd:	77	LVal:	3	RVal:	8	LName:	NS_wrstrppr6	RName:	NS_wtrbttl6	Rsp:	Right	Start:	94079	End:	110494	END
+Trl:	7	Blk:	1	Cnd:	78	LVal:	0	RVal:	3	LName:	5S_59ne	RName:	5S_61th2	Rsp:	Early	Start:	110976	End:	122124	END
+Trl:	8	Blk:	1	Cnd:	79	LVal:	3	RVal:	8	LName:	NS_wrstrppr3	RName:	NS_wtrbttl3	Rsp:	Right	Start:	122554	End:	138850	END
+Trl:	9	Blk:	1	Cnd:	80	LVal:	3	RVal:	8	LName:	NS_wrstrppr6	RName:	NS_wtrbttl3	Rsp:	Right	Start:	139256	End:	155627	END
+PROGRAM EXIT

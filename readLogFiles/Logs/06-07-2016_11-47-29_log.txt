@@ -1,0 +1,30 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice1_itm.txt
+COND:	movieChoice1_cnd.txt
+DATE:	06/07/2016 11:47:29
+Showing conditions: 121-->140.
+MagicNumbers:	176	218	103	59	16	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	121	LVal:	0	RVal:	3	LName:	NS_whttp3	RName:	NS_wrstrppr2	Rsp:	Right	Start:	1578	End:	16380	END
+Trl:	1	Blk:	1	Cnd:	122	LVal:	3	RVal:	8	LName:	5S_61ne	RName:	5S_63th	Rsp:	Early	Start:	16893	End:	29375	END
+Trl:	2	Blk:	1	Cnd:	123	LVal:	3	RVal:	0	LName:	5S_61th2	RName:	5S_59ls2	Rsp:	Left	Start:	29875	End:	45319	END
+Trl:	3	Blk:	1	Cnd:	124	LVal:	8	RVal:	3	LName:	NS_wtrbttl2	RName:	NS_wrstrppr6	Rsp:	Right	Start:	45725	End:	60613	END
+Trl:	4	Blk:	1	Cnd:	125	LVal:	8	RVal:	0	LName:	NS_wtrbttl6	RName:	NS_whttp4	Rsp:	Left	Start:	61045	End:	77490	END
+Trl:	5	Blk:	1	Cnd:	126	LVal:	3	RVal:	8	LName:	NS_wrstrppr5	RName:	NS_wtrbttl3	Rsp:	Ignore	Start:	77910	End:	94501	END
+Trl:	6	Blk:	1	Cnd:	127	LVal:	0	RVal:	3	LName:	5S_59th	RName:	5S_61ne	Rsp:	Left	Start:	95003	End:	108978	END
+Trl:	7	Blk:	1	Cnd:	128	LVal:	0	RVal:	8	LName:	5S_59ne	RName:	5S_63ne	Rsp:	Left	Start:	109474	End:	123522	END
+Trl:	8	Blk:	1	Cnd:	129	LVal:	0	RVal:	8	LName:	5S_59ls	RName:	5S_63ls	Rsp:	Right	Start:	124016	End:	140566	END
+Trl:	9	Blk:	1	Cnd:	130	LVal:	8	RVal:	0	LName:	NS_wtrbttl6	RName:	NS_whttp6	Rsp:	Left	Start:	141002	End:	157926	END
+Trl:	10	Blk:	1	Cnd:	131	LVal:	3	RVal:	0	LName:	5S_61ls2	RName:	5S_59ls2	Rsp:	Left	Start:	158440	End:	173403	END
+Trl:	11	Blk:	1	Cnd:	132	LVal:	8	RVal:	3	LName:	NS_wtrbttl2	RName:	NS_wrstrppr4	Rsp:	Left	Start:	173847	End:	190297	END
+Trl:	12	Blk:	1	Cnd:	133	LVal:	3	RVal:	8	LName:	NS_wrstrppr4	RName:	NS_wtrbttl1	Rsp:	Left	Start:	190703	End:	205824	END
+Trl:	13	Blk:	1	Cnd:	134	LVal:	8	RVal:	0	LName:	5S_63ne2	RName:	5S_59ls2	Rsp:	Early	Start:	206349	End:	217254	END
+Trl:	14	Blk:	1	Cnd:	135	LVal:	0	RVal:	8	LName:	NS_whttp2	RName:	NS_wtrbttl3	Rsp:	Right	Start:	217692	End:	234164	END
+Trl:	15	Blk:	1	Cnd:	136	LVal:	8	RVal:	3	LName:	5S_63th2	RName:	5S_61ls2	Rsp:	Right	Start:	234672	End:	250041	END
+Trl:	16	Blk:	1	Cnd:	137	LVal:	3	RVal:	0	LName:	NS_wrstrppr6	RName:	NS_whttp3	Rsp:	Left	Start:	250452	End:	265785	END
+Trl:	17	Blk:	1	Cnd:	138	LVal:	8	RVal:	0	LName:	5S_63th	RName:	5S_59ne2	Rsp:	Left	Start:	266304	End:	282812	END
+Trl:	18	Blk:	1	Cnd:	139	LVal:	0	RVal:	3	LName:	NS_whttp1	RName:	NS_wrstrppr5	Rsp:	Right	Start:	283223	End:	298106	END
+Trl:	19	Blk:	1	Cnd:	140	LVal:	3	RVal:	8	LName:	5S_61ne	RName:	5S_63ls	Rsp:	startCueIgnore	Start:	298599	End:	311168	END
+Trl:	20	Blk:	1	Cnd:	140	LVal:	3	RVal:	8	LName:	5S_61ne	RName:	5S_63ls	Rsp:	Early	Start:	311641	End:	322514	END
+PROGRAM EXIT

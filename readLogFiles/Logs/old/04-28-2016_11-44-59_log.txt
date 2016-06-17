@@ -1,0 +1,33 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cayoEatingThings_itm.txt
+COND:	Shuffle3_cnd.txt
+DATE:	04/28/2016 11:44:59
+Showing conditions: 61-->80.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	9	RVal:	5	Rsp:	Left	Start:	1192	End:	17796	END
+Trl:	2	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	17898	End:	27060	END
+Trl:	3	Blk:	1	Cnd:	2	LVal:	0	RVal:	5	Rsp:	Right	Start:	27170	End:	39904	END
+Trl:	4	Blk:	1	Cnd:	3	LVal:	5	RVal:	9	Rsp:	Ignore	Start:	40007	End:	57232	END
+Trl:	5	Blk:	1	Cnd:	4	Rsp:	StartCueMiss	Start:	57334	End:	66611	END
+Trl:	6	Blk:	1	Cnd:	4	LVal:	9	RVal:	1	Rsp:	Left	Start:	66712	End:	79505	END
+Trl:	7	Blk:	1	Cnd:	5	LVal:	5	RVal:	1	Rsp:	Ignore	Start:	79608	End:	96134	END
+Trl:	8	Blk:	1	Cnd:	6	LVal:	1	RVal:	9	Rsp:	Ignore	Start:	96237	End:	113377	END
+Trl:	9	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	113479	End:	122473	END
+Trl:	10	Blk:	1	Cnd:	7	LVal:	5	RVal:	0	Rsp:	Left	Start:	122574	End:	139049	END
+Trl:	11	Blk:	1	Cnd:	8	LVal:	1	RVal:	5	Rsp:	Right	Start:	139153	End:	151045	END
+Trl:	12	Blk:	1	Cnd:	9	LVal:	5	RVal:	9	Rsp:	Right	Start:	151150	End:	164473	END
+Trl:	13	Blk:	1	Cnd:	10	LVal:	9	RVal:	0	Rsp:	Right	Start:	164576	End:	173870	END
+Trl:	14	Blk:	1	Cnd:	11	LVal:	1	RVal:	9	Rsp:	Ignore	Start:	173973	End:	190881	END
+Trl:	15	Blk:	1	Cnd:	12	LVal:	1	RVal:	5	Rsp:	Right	Start:	190984	End:	203891	END
+Trl:	16	Blk:	1	Cnd:	13	LVal:	0	RVal:	9	Rsp:	Right	Start:	203994	End:	217186	END
+Trl:	17	Blk:	1	Cnd:	14	LVal:	9	RVal:	5	Rsp:	Left	Start:	217290	End:	230181	END
+Trl:	18	Blk:	1	Cnd:	15	Rsp:	StartCueMiss	Start:	230283	End:	238996	END
+Trl:	19	Blk:	1	Cnd:	15	LVal:	1	RVal:	0	Rsp:	Ignore	Start:	239099	End:	256023	END
+Trl:	20	Blk:	1	Cnd:	16	Rsp:	StartCueMiss	Start:	256125	End:	265619	END
+Trl:	21	Blk:	1	Cnd:	16	LVal:	0	RVal:	9	Rsp:	Right	Start:	265722	End:	277463	END
+Trl:	22	Blk:	1	Cnd:	17	LVal:	5	RVal:	1	Rsp:	Left	Start:	277567	End:	293091	END
+Trl:	23	Blk:	1	Cnd:	18	LVal:	5	RVal:	1	Rsp:	Left	Start:	293196	End:	307702	END
+Trl:	24	Blk:	1	Cnd:	19	LVal:	5	RVal:	1	Rsp:	Ignore	Start:	307805	End:	324880	END
+Trl:	25	Blk:	1	Cnd:	20	LVal:	1	RVal:	5	Rsp:	Right	Start:	324984	End:	336541	END
+PROGRAM EXIT

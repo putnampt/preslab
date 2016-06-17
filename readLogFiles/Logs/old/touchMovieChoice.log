@@ -1,0 +1,7 @@
+Scenario - Touch Movie Choice
+Logfile written - 05/17/2016 12:35:29
+
+Trial	Event Type	Code	x(num)	y(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	Picture	start			15494	0	1	500	1	0	next	other	0
+1	Quit				31000	15506	NA

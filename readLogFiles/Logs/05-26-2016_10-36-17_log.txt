@@ -1,0 +1,27 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoiceTraining1_itm.txt
+COND:	movieChoiceTraining1_cnd.txt
+DATE:	05/26/2016 10:36:17
+Showing conditions: 1-->350.
+MagicNumbers:	112	211	160	12	245	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	1	LVal:	1	RVal:	5	LName:	MC_cybrds5A	RName:	MC_cykdintrs2B	Rsp:	Early	Start:	1635	End:	12582	END
+Trl:	1	Blk:	1	Cnd:	2	LVal:	8	RVal:	5	LName:	MC_kjA	RName:	MC_kmA	Rsp:	Early	Start:	13020	End:	24077	END
+Trl:	2	Blk:	1	Cnd:	3	LVal:	0	RVal:	1	LName:	MC_cybchmm1A	RName:	MC_cybrds5B	Rsp:	Right	Start:	24540	End:	39188	END
+Trl:	3	Blk:	1	Cnd:	4	LVal:	3	RVal:	8	LName:	MC_dvs05B	RName:	MC_cypnsflckrB	Rsp:	Early	Start:	39604	End:	52250	END
+Trl:	4	Blk:	1	Cnd:	5	LVal:	8	RVal:	5	LName:	MC_cypnsflckrA	RName:	MC_cykdintrs2A	Rsp:	Early	Start:	52680	End:	63446	END
+Trl:	5	Blk:	1	Cnd:	6	LVal:	3	RVal:	1	LName:	MC_dvs05A	RName:	MC_cybrds5B	Rsp:	Early	Start:	63896	End:	74941	END
+Trl:	6	Blk:	1	Cnd:	7	LVal:	5	RVal:	0	LName:	MC_cykdintrs2A	RName:	MC_cybchmm2B	Rsp:	Left	Start:	75364	End:	90718	END
+Trl:	7	Blk:	1	Cnd:	8	LVal:	8	RVal:	0	LName:	MC_cypnsplyngB	RName:	MC_cybchmm1A	Rsp:	StartCueMiss	Start:	91165	End:	99062	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	8	RVal:	0	LName:	MC_cypnsplyngB	RName:	MC_cybchmm1A	Rsp:	StartCueMiss	Start:	99498	End:	107378	END
+Trl:	9	Blk:	1	Cnd:	8	LVal:	8	RVal:	0	LName:	MC_cypnsplyngB	RName:	MC_cybchmm1A	Rsp:	StartCueMiss	Start:	107791	End:	116408	END
+Trl:	10	Blk:	1	Cnd:	8	LVal:	8	RVal:	0	LName:	MC_cypnsplyngB	RName:	MC_cybchmm1A	Rsp:	Early	Start:	116808	End:	127555	END
+Trl:	11	Blk:	1	Cnd:	9	LVal:	3	RVal:	1	LName:	MC_dvs05B	RName:	MC_cybrds5A	Rsp:	Left	Start:	127978	End:	142965	END
+Trl:	12	Blk:	1	Cnd:	10	LVal:	5	RVal:	3	LName:	MC_cykdintrs2B	RName:	MC_dvs06B	Rsp:	Left	Start:	143415	End:	158859	END
+Trl:	13	Blk:	1	Cnd:	11	LVal:	1	RVal:	8	LName:	MC_cybrds4B	RName:	MC_cypnsplyngB	Rsp:	Right	Start:	159270	End:	175652	END
+Trl:	14	Blk:	1	Cnd:	12	LVal:	3	RVal:	1	LName:	MC_dvs06A	RName:	MC_cybrds5B	Rsp:	Right	Start:	176071	End:	190480	END
+Trl:	15	Blk:	1	Cnd:	13	LVal:	8	RVal:	0	LName:	MC_kjB	RName:	MC_jckA	Rsp:	Left	Start:	190934	End:	207274	END
+Trl:	16	Blk:	1	Cnd:	14	LVal:	1	RVal:	8	LName:	MC_kvnA	RName:	MC_kjB	Rsp:	Right	Start:	207708	End:	224101	END
+Trl:	17	Blk:	1	Cnd:	15	LVal:	3	RVal:	0	LName:	MC_dvs05A	RName:	MC_cybchmm1B	Rsp:	Ignore	Start:	224551	End:	241095	END
+Trl:	18	Blk:	1	Cnd:	16	LVal:	0	RVal:	5	LName:	MC_cybchmm1A	RName:	MC_cykdintrs1A	

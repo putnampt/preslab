@@ -1,0 +1,29 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	test_itm.txt
+COND:	test_cnd.txt
+DATE:	03/10/2016 11:48:00
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	1014	End:	14367	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	1	RVal:	8	Rsp:	Right	Start:	14372	End:	23733	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	23738	End:	38249	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	1	RVal:	8	Rsp:	Right	Start:	38254	End:	49699	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	49704	End:	64382	END
+Trl:	6	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	64387	End:	76432	END
+Trl:	7	Blk:	1	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	76437	End:	90531	END
+Trl:	8	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	90536	End:	102581	END
+Trl:	9	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	102586	End:	114614	END
+Trl:	10	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	114619	End:	123680	END
+Trl:	11	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	123685	End:	135713	END
+Trl:	12	Blk:	1	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Left	Start:	135718	End:	147162	END
+Trl:	13	Blk:	1	Cnd:	8	Rsp:	StartCueMiss	Start:	147167	End:	155379	END
+Trl:	14	Blk:	1	Cnd:	8	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	155384	End:	170062	END
+Trl:	15	Blk:	1	Cnd:	9	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	170067	End:	184145	END
+Trl:	16	Blk:	1	Cnd:	10	Rsp:	StartCueMiss	Start:	184150	End:	192978	END
+Trl:	17	Blk:	1	Cnd:	10	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	192983	End:	207977	END
+Trl:	18	Blk:	2	Cnd:	1	Rsp:	StartCueMiss	Start:	207982	End:	220027	END
+Trl:	19	Blk:	2	Cnd:	1	Rsp:	StartCueMiss	Start:	220032	End:	232060	END
+Trl:	20	Blk:	2	Cnd:	1	Rsp:	StartCueMiss	Start:	232065	End:	244109	END
+Trl:	21	Blk:	2	Cnd:	1	Rsp:	StartCueMiss	Start:	244114	End:	256142	END
+Trl:	22	Blk:	2	Cnd:	1	

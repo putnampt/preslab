@@ -1,0 +1,22 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	applesRosesCoonsShepards_itm.txt
+COND:	test_cnd3.txt
+DATE:	03/14/2016 14:54:14
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	8	RVal:	8	Rsp:	Ignore	Start:	1013	End:	17500	END
+Trl:	2	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	17507	End:	29533	END
+Trl:	3	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	29544	End:	41566	END
+Trl:	4	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	41573	End:	53616	END
+Trl:	5	Blk:	1	Cnd:	2	LVal:	1	RVal:	1	Rsp:	Ignore	Start:	53623	End:	71682	END
+Trl:	6	Blk:	1	Cnd:	3	LVal:	8	RVal:	8	Rsp:	Ignore	Start:	71689	End:	88314	END
+Trl:	7	Blk:	1	Cnd:	4	LVal:	8	RVal:	8	Rsp:	Ignore	Start:	88319	End:	106197	END
+Trl:	8	Blk:	1	Cnd:	5	LVal:	8	RVal:	8	Rsp:	Ignore	Start:	106202	End:	120830	END
+Trl:	9	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	120835	End:	132879	END
+Trl:	10	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	132884	End:	144912	END
+Trl:	11	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	144917	End:	156962	END
+Trl:	12	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	156967	End:	168995	END
+Trl:	13	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	169000	End:	181028	END
+Trl:	14	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	181033	End:	193077	END
+Trl:	15	Blk:	1	Cnd:	6	

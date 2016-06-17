@@ -1,0 +1,26 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice1_itm.txt
+COND:	movieChoice1_cnd.txt
+DATE:	06/02/2016 12:41:39
+Showing conditions: 281-->290.
+MagicNumbers:	80	159	78	31	38	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	281	LVal:	8	RVal:	3	LName:	NS_wtrbttl4	RName:	NS_wrstrppr5	Rsp:	StartCueMiss	Start:	1600	End:	9499	END
+Trl:	1	Blk:	1	Cnd:	281	LVal:	8	RVal:	3	LName:	NS_wtrbttl4	RName:	NS_wrstrppr5	Rsp:	Left	Start:	9888	End:	26459	END
+Trl:	2	Blk:	1	Cnd:	282	LVal:	8	RVal:	3	LName:	5S_63th	RName:	5S_61ne	Rsp:	Left	Start:	26982	End:	43936	END
+Trl:	3	Blk:	1	Cnd:	283	LVal:	8	RVal:	3	LName:	NS_wtrbttl1	RName:	NS_wrstrppr5	Rsp:	Left	Start:	44326	End:	60829	END
+Trl:	4	Blk:	1	Cnd:	284	LVal:	0	RVal:	8	LName:	5S_59ne2	RName:	5S_63th2	Rsp:	StartCueMiss	Start:	61353	End:	69226	END
+Trl:	5	Blk:	1	Cnd:	284	LVal:	0	RVal:	8	LName:	5S_59ne2	RName:	5S_63th2	Rsp:	Right	Start:	69697	End:	86320	END
+Trl:	6	Blk:	1	Cnd:	285	LVal:	8	RVal:	3	LName:	5S_63ne	RName:	5S_61th	Rsp:	StartCueMiss	Start:	86853	End:	95416	END
+Trl:	7	Blk:	1	Cnd:	285	LVal:	8	RVal:	3	LName:	5S_63ne	RName:	5S_61th	Rsp:	Ignore	Start:	95898	End:	112328	END
+Trl:	8	Blk:	1	Cnd:	286	LVal:	3	RVal:	0	LName:	NS_wrstrppr3	RName:	NS_whttp2	Rsp:	StartCueMiss	Start:	112743	End:	121040	END
+Trl:	9	Blk:	1	Cnd:	286	LVal:	3	RVal:	0	LName:	NS_wrstrppr3	RName:	NS_whttp2	Rsp:	StartCueMiss	Start:	121451	End:	129886	END
+Trl:	10	Blk:	1	Cnd:	286	LVal:	3	RVal:	0	LName:	NS_wrstrppr3	RName:	NS_whttp2	Rsp:	StartCueMiss	Start:	130290	End:	138167	END
+Trl:	11	Blk:	1	Cnd:	286	LVal:	3	RVal:	0	LName:	NS_wrstrppr3	RName:	NS_whttp2	Rsp:	Left	Start:	138562	End:	153561	END
+Trl:	12	Blk:	1	Cnd:	287	LVal:	8	RVal:	3	LName:	5S_63ne	RName:	5S_61ne	Rsp:	Ignore	Start:	154043	End:	170539	END
+Trl:	13	Blk:	1	Cnd:	288	LVal:	0	RVal:	8	LName:	NS_whttp5	RName:	NS_wtrbttl2	Rsp:	Early	Start:	170950	End:	181884	END
+Trl:	14	Blk:	1	Cnd:	289	LVal:	3	RVal:	8	LName:	5S_61ne	RName:	5S_63th2	Rsp:	startCueIgnore	Start:	182373	End:	194945	END
+Trl:	15	Blk:	1	Cnd:	289	LVal:	3	RVal:	8	LName:	5S_61ne	RName:	5S_63th2	Rsp:	Right	Start:	195437	End:	212788	END
+Trl:	16	Blk:	1	Cnd:	290	LVal:	8	RVal:	0	LName:	NS_wtrbttl5	RName:	NS_whttp4	Rsp:	Ignore	Start:	213196	End:	230833	END
+PROGRAM EXIT

@@ -1,0 +1,9 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	movieChoice1_itm.txt
+COND:	movieChoice1_cnd.txt
+DATE:	05/31/2016 11:57:14
+Showing conditions: 345-->350.
+MagicNumbers:	51	75	178	42	124	
+Starting Task
+Trl:	0	Blk:	1	Cnd:	345	LVal:	0	RVal:	8	LName:	5S_59ne2	RName:	5S_63ls2	

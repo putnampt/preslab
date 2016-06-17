@@ -1,0 +1,32 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	applesRosesCoonsShepards_itm.txt
+COND:	test_cnd3.txt
+DATE:	03/14/2016 15:27:06
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	1025	End:	14850	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	14859	End:	28833	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	28840	End:	42799	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Left	Start:	42806	End:	53482	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	8	RVal:	1	Rsp:	Right	Start:	53487	End:	61449	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Left	Start:	61454	End:	71048	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Left	Start:	71053	End:	82064	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	1	RVal:	8	Rsp:	Right	Start:	82074	End:	95014	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	1	RVal:	8	Rsp:	Left	Start:	95019	End:	102814	END
+Trl:	10	Blk:	1	Cnd:	10	LVal:	1	RVal:	8	Rsp:	Left	Start:	102819	End:	110530	END
+Trl:	11	Blk:	1	Cnd:	11	LVal:	1	RVal:	8	Rsp:	Miss	Start:	110535	End:	121113	END
+Trl:	12	Blk:	1	Cnd:	12	LVal:	1	RVal:	8	Rsp:	Right	Start:	121121	End:	131013	END
+Trl:	13	Blk:	1	Cnd:	13	LVal:	8	RVal:	1	Rsp:	Left	Start:	131021	End:	141429	END
+Trl:	14	Blk:	1	Cnd:	14	LVal:	1	RVal:	8	Rsp:	Right	Start:	141437	End:	151162	END
+Trl:	15	Blk:	1	Cnd:	15	LVal:	8	RVal:	1	Rsp:	Miss	Start:	151167	End:	161462	END
+Trl:	16	Blk:	1	Cnd:	16	LVal:	1	RVal:	8	Rsp:	Right	Start:	161468	End:	171395	END
+Trl:	17	Blk:	1	Cnd:	17	LVal:	1	RVal:	8	Rsp:	Miss	Start:	171401	End:	182028	END
+Trl:	18	Blk:	1	Cnd:	18	Rsp:	StartCueMiss	Start:	182036	End:	191577	END
+Trl:	19	Blk:	1	Cnd:	18	LVal:	1	RVal:	8	Rsp:	Right	Start:	191585	End:	201244	END
+Trl:	20	Blk:	1	Cnd:	19	LVal:	1	RVal:	8	Rsp:	Right	Start:	201249	End:	210627	END
+Trl:	21	Blk:	1	Cnd:	20	LVal:	8	RVal:	1	Rsp:	Left	Start:	210632	End:	220226	END
+Trl:	22	Blk:	1	Cnd:	21	LVal:	1	RVal:	8	Rsp:	Right	Start:	220234	End:	230293	END
+Trl:	23	Blk:	1	Cnd:	22	LVal:	8	RVal:	1	Rsp:	Left	Start:	230300	End:	242859	END
+Trl:	24	Blk:	1	Cnd:	23	LVal:	1	RVal:	8	Rsp:	Right	Start:	242866	End:	252592	END
+Trl:	25	Blk:	1	Cnd:	24	LVal:	1	RVal:	8	Rsp:	Right	Start:	252598	End:	261975	END

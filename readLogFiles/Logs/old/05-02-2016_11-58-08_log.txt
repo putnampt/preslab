@@ -1,0 +1,32 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cagetraingimg_itm.txt
+COND:	Shuffle5_cnd.txt
+DATE:	05/02/2016 11:58:08
+Showing conditions: 41-->60.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	5	Rsp:	Right	Start:	1176	End:	13514	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	1	RVal:	9	Rsp:	Right	Start:	13614	End:	26542	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	0	RVal:	9	Rsp:	Right	Start:	26640	End:	39604	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	0	RVal:	9	Rsp:	Right	Start:	39701	End:	52616	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	5	RVal:	9	Rsp:	Right	Start:	52710	End:	65561	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	1	RVal:	5	Rsp:	Left	Start:	65658	End:	76240	END
+Trl:	7	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	76336	End:	84804	END
+Trl:	8	Blk:	1	Cnd:	7	LVal:	9	RVal:	1	Rsp:	Left	Start:	84900	End:	97765	END
+Trl:	9	Blk:	1	Cnd:	8	LVal:	0	RVal:	5	Rsp:	Right	Start:	97863	End:	109927	END
+Trl:	10	Blk:	1	Cnd:	9	LVal:	1	RVal:	0	Rsp:	Right	Start:	110025	End:	120223	END
+Trl:	11	Blk:	1	Cnd:	10	LVal:	0	RVal:	9	Rsp:	Right	Start:	120318	End:	133352	END
+Trl:	12	Blk:	1	Cnd:	11	Rsp:	StartCueMiss	Start:	133448	End:	141949	END
+Trl:	13	Blk:	1	Cnd:	11	LVal:	0	RVal:	1	Rsp:	Left	Start:	142050	End:	152444	END
+Trl:	14	Blk:	1	Cnd:	12	Rsp:	StartCueMiss	Start:	152546	End:	160925	END
+Trl:	15	Blk:	1	Cnd:	12	LVal:	9	RVal:	1	Rsp:	Left	Start:	161025	End:	173953	END
+Trl:	16	Blk:	1	Cnd:	13	Rsp:	StartCueMiss	Start:	174051	End:	182450	END
+Trl:	17	Blk:	1	Cnd:	13	LVal:	9	RVal:	5	Rsp:	Left	Start:	182548	End:	195945	END
+Trl:	18	Blk:	1	Cnd:	14	LVal:	5	RVal:	9	Rsp:	Right	Start:	196042	End:	209023	END
+Trl:	19	Blk:	1	Cnd:	15	LVal:	1	RVal:	0	Rsp:	Right	Start:	209123	End:	220818	END
+Trl:	20	Blk:	1	Cnd:	16	LVal:	1	RVal:	9	Rsp:	Right	Start:	220918	End:	233930	END
+Trl:	21	Blk:	1	Cnd:	17	LVal:	5	RVal:	0	Rsp:	Left	Start:	234027	End:	246109	END
+Trl:	22	Blk:	1	Cnd:	18	LVal:	9	RVal:	0	Rsp:	Left	Start:	246213	End:	259337	END
+Trl:	23	Blk:	1	Cnd:	19	LVal:	5	RVal:	9	Rsp:	Ignore	Start:	259433	End:	277998	END
+Trl:	24	Blk:	1	Cnd:	20	LVal:	1	RVal:	9	Rsp:	Right	Start:	278095	End:	291058	END
+PROGRAM EXIT

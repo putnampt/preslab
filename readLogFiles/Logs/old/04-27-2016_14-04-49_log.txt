@@ -1,0 +1,29 @@
+SCEN:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	cagetraingimg_itm.txt
+COND:	Shuffle2_cnd.txt
+DATE:	04/27/2016 14:04:49
+Showing conditions: 41-->60.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	Rsp:	StartCueMiss	Start:	1190	End:	13248	END
+Trl:	2	Blk:	1	Cnd:	1	LVal:	0	RVal:	5	Rsp:	Right	Start:	13343	End:	25026	END
+Trl:	3	Blk:	1	Cnd:	2	Rsp:	StartCueMiss	Start:	25126	End:	33324	END
+Trl:	4	Blk:	1	Cnd:	2	LVal:	5	RVal:	0	Rsp:	Left	Start:	33420	End:	44069	END
+Trl:	5	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	44166	End:	52816	END
+Trl:	6	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	52913	End:	61063	END
+Trl:	7	Blk:	1	Cnd:	3	Rsp:	StartCueMiss	Start:	61159	End:	70060	END
+Trl:	8	Blk:	1	Cnd:	3	LVal:	1	RVal:	0	Rsp:	Left	Start:	70160	End:	81971	END
+Trl:	9	Blk:	1	Cnd:	4	LVal:	9	RVal:	5	Rsp:	Right	Start:	82069	End:	92151	END
+Trl:	10	Blk:	1	Cnd:	5	LVal:	9	RVal:	0	Rsp:	Left	Start:	92246	End:	104660	END
+Trl:	11	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	104756	End:	113010	END
+Trl:	12	Blk:	1	Cnd:	6	Rsp:	StartCueMiss	Start:	113108	End:	121090	END
+Trl:	13	Blk:	1	Cnd:	6	LVal:	0	RVal:	9	Rsp:	Right	Start:	121187	End:	133668	END
+Trl:	14	Blk:	1	Cnd:	7	Rsp:	StartCueMiss	Start:	133766	End:	141583	END
+Trl:	15	Blk:	1	Cnd:	7	LVal:	9	RVal:	0	Rsp:	Left	Start:	141681	End:	153944	END
+Trl:	16	Blk:	1	Cnd:	8	Rsp:	StartCueMiss	Start:	154042	End:	162158	END
+Trl:	17	Blk:	1	Cnd:	8	LVal:	5	RVal:	1	Rsp:	Left	Start:	162255	End:	172237	END
+Trl:	18	Blk:	1	Cnd:	9	LVal:	1	RVal:	5	Rsp:	Right	Start:	172333	End:	182466	END
+Trl:	19	Blk:	1	Cnd:	10	LVal:	5	RVal:	9	Rsp:	Left	Start:	182564	End:	192912	END
+Trl:	20	Blk:	1	Cnd:	11	LVal:	5	RVal:	1	Rsp:	Left	Start:	193010	End:	203108	END
+Trl:	21	Blk:	1	Cnd:	12	LVal:	0	RVal:	1	Rsp:	Left	Start:	203208	End:	212372	END
+Trl:	22	Blk:	1	Cnd:	13	

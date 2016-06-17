@@ -1,0 +1,26 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	applesRosesCoonsShepards_itm.txt
+COND:	mixedSetCompare_cnd.txt
+DATE:	03/15/2016 11:34:54
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	1016	End:	15084	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	15092	End:	29216	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	8	RVal:	1	Rsp:	Right	Start:	29221	End:	38199	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	38206	End:	52299	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	52305	End:	66632	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	66639	End:	80715	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	80723	End:	95331	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	8	RVal:	1	Rsp:	Right	Start:	95336	End:	103497	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	8	RVal:	1	Rsp:	Right	Start:	103502	End:	111930	END
+Trl:	10	Blk:	1	Cnd:	10	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	111935	End:	125813	END
+Trl:	11	Blk:	1	Cnd:	11	LVal:	1	RVal:	8	Rsp:	Right	Start:	125818	End:	135513	END
+Trl:	12	Blk:	1	Cnd:	12	LVal:	1	RVal:	8	Rsp:	Right	Start:	135520	End:	145629	END
+Trl:	13	Blk:	1	Cnd:	13	LVal:	1	RVal:	8	Rsp:	Right	Start:	145634	End:	155245	END
+Trl:	14	Blk:	1	Cnd:	14	LVal:	8	RVal:	1	Rsp:	Right	Start:	155250	End:	163245	END
+Trl:	15	Blk:	1	Cnd:	15	LVal:	8	RVal:	1	Rsp:	Right	Start:	163250	End:	171062	END
+Trl:	16	Blk:	1	Cnd:	16	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	171069	End:	185128	END
+Trl:	17	Blk:	1	Cnd:	17	LVal:	1	RVal:	8	Rsp:	Right	Start:	185135	End:	195027	END
+Trl:	18	Blk:	1	Cnd:	18	LVal:	1	RVal:	8	Rsp:	Right	Start:	195032	End:	205044	END
+Trl:	19	Blk:	1	Cnd:	19	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	205051	End:	218943	END

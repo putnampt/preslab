@@ -1,0 +1,31 @@
+START:	TouchImageChoice
+PARM:	touch_parameters.txt
+ITEM:	applesRosesCoonsShepards_itm.txt
+COND:	test_cnd3.txt
+DATE:	03/14/2016 15:20:35
+Showing ALL conditions.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	1	LVal:	1	RVal:	8	Rsp:	Right	Start:	1020	End:	10984	END
+Trl:	2	Blk:	1	Cnd:	2	LVal:	8	RVal:	1	Rsp:	Left	Start:	10989	End:	20767	END
+Trl:	3	Blk:	1	Cnd:	3	LVal:	1	RVal:	8	Rsp:	Right	Start:	20774	End:	31000	END
+Trl:	4	Blk:	1	Cnd:	4	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	31007	End:	44983	END
+Trl:	5	Blk:	1	Cnd:	5	LVal:	1	RVal:	8	Rsp:	Right	Start:	44990	End:	54815	END
+Trl:	6	Blk:	1	Cnd:	6	LVal:	8	RVal:	1	Rsp:	Ignore	Start:	54822	End:	68748	END
+Trl:	7	Blk:	1	Cnd:	7	LVal:	1	RVal:	8	Rsp:	Left	Start:	68753	End:	77015	END
+Trl:	8	Blk:	1	Cnd:	8	LVal:	8	RVal:	1	Rsp:	Right	Start:	77020	End:	84914	END
+Trl:	9	Blk:	1	Cnd:	9	LVal:	1	RVal:	8	Rsp:	Right	Start:	84921	End:	94697	END
+Trl:	10	Blk:	1	Cnd:	10	LVal:	1	RVal:	8	Rsp:	Left	Start:	94702	End:	102580	END
+Trl:	11	Blk:	1	Cnd:	11	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	102589	End:	116580	END
+Trl:	12	Blk:	1	Cnd:	12	LVal:	8	RVal:	1	Rsp:	Left	Start:	116587	End:	126880	END
+Trl:	13	Blk:	1	Cnd:	13	LVal:	8	RVal:	1	Rsp:	Left	Start:	126885	End:	137479	END
+Trl:	14	Blk:	1	Cnd:	14	LVal:	1	RVal:	8	Rsp:	Right	Start:	137484	End:	147212	END
+Trl:	15	Blk:	1	Cnd:	15	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	147217	End:	161279	END
+Trl:	16	Blk:	1	Cnd:	16	LVal:	8	RVal:	1	Rsp:	Right	Start:	161286	End:	169261	END
+Trl:	17	Blk:	1	Cnd:	17	LVal:	8	RVal:	1	Rsp:	Right	Start:	169266	End:	176878	END
+Trl:	18	Blk:	1	Cnd:	18	LVal:	8	RVal:	1	Rsp:	Left	Start:	176886	End:	186878	END
+Trl:	19	Blk:	1	Cnd:	19	LVal:	1	RVal:	8	Rsp:	Right	Start:	186883	End:	196794	END
+Trl:	20	Blk:	1	Cnd:	20	LVal:	1	RVal:	8	Rsp:	Right	Start:	196799	End:	206610	END
+Trl:	21	Blk:	1	Cnd:	21	LVal:	8	RVal:	1	Rsp:	Left	Start:	206615	End:	216460	END
+Trl:	22	Blk:	1	Cnd:	22	LVal:	1	RVal:	8	Rsp:	Ignore	Start:	216467	End:	230459	END
+Trl:	23	Blk:	1	Cnd:	23	LVal:	8	RVal:	1	Rsp:	Left	Start:	230466	End:	240476	END
+Trl:	24	Blk:	1	Cnd:	24	LVal:	1	RVal:	8	Rsp:	Left	Start:	240481	End:	248242	END

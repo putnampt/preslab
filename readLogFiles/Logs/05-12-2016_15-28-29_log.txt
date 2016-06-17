@@ -1,0 +1,9 @@
+SCEN:	TouchMovieChoice
+PARM:	touch_parameters.txt
+ITEM:	test_itm.txt
+COND:	test_cnd.txt
+DATE:	05/12/2016 15:28:29
+Showing conditions: 1-->4.
+Starting Task
+Trl:	1	Blk:	1	Cnd:	2	Rsp:		Start:	1865	End:	17297	END
+Trl:	2	Blk:	1	Cnd:	3	
