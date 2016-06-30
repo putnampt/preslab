@@ -1,7 +1,7 @@
 clear all
 clc
 
-allItemsDir = 'C:\Users\Bread\Desktop\movieChoice4';
+allItemsDir = 'C:\Users\Bread\Desktop\movieChoice5';
 allItemsDirStruct = dir(allItemsDir);
 fileTypeExt = '.avi';
 totalValidItems = 0;
@@ -40,7 +40,7 @@ fileNameTemplate(1) = '|';
 rewardTemplate(1) = '|';
 
 
-fID = fopen('movieChoice4.txt','at');
+fID = fopen('movieChoice5_itm.txt','at');
 
 fprintf(fID,'%s\t%s\t%s\t%s\n',itmNumIdxStr, movieNameHeader, rwdIdxStr, totalItmsIdxStr);
 

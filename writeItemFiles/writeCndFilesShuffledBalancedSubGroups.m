@@ -1,7 +1,7 @@
 
 clear all
 
-cndFileName = 'movieChoice4_cnd.txt';
+cndFileName = 'movieChoice5_cnd.txt';
 
 groupA = [1:6];
 groupB = [7:12];
