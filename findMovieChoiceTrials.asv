@@ -61,14 +61,39 @@ itemOffsetValue 	= 200;              % Offset of item values
 
 
 % ---------------- Find magic numbers ---------------
-magicIdx = find(vals == 9);
+magicCodeIdx = find(vals == magicNumberCode);
 
-taskStartIdx  = find(vals == taskStartCode);
 
-%magicClusterIdxs = kmeans(times(magicIdx),numel(taskStartIdx),'dist','sqeuclidean');
+[taskStartIdx] = find(vals == taskStartCode);
 
+magicClusterIdxs = kmeans(times(magicCodeIdx),numel(taskStartIdx),'dist','sqeuclidean');
+
+uniqueClusterIDs = unique(magicClusterIdxs);
+
+for mc = 1:numel(uniqueClusterIDs)
+    thisClusterID = uniqueClusterIDs(mc);
+    
+    thisClusterIdxs = magicCodeIdx( find(magicClusterIdxs == thisClusterID) );
+    
+    thisClusterMagicVals = vals(thisClusterIdxs+1);
+    
+    fprintf('Cluster ID%2d\t1st Index%5d\tVal:%3d\n',thisClusterID, thisClusterIdxs(1), thisClusterMagicVals(1));
+    
+    magicVals{mc}= thisClusterMagicVals;
+    magicIdxs{mc} = thisClusterIdxs+1;
+    magicStartIdx(mc) = thisClusterIdxs(1)+1;
+    
+end
+
+[orderedMagicStartIdx,magicSortIdx] = sort(magicStartIdx);
+
+orderedMagicVals = magicVals(magicSortIdx);
+orderedMagicIdxs = magicIdxs(magicSortIdx);
 
 juiceIdx =find(vals == rewardGivenCode);
+
+
+codeAssociatedMagicCluster = zeros(size(vals));
 
 
 
@@ -154,9 +179,9 @@ while ec <= size(vals,1)-lookAhead
                     potential(sc).rightItem =(trialInfoCodes(rightItmNumIDCodeIdx+1))-itemOffsetValue;
                     
                      if exist('item', 'var')
-                         potential(sc).leftFileName = item(  find(itemNumber == potential(sc).leftItem) );
+                         potential(sc).rightFileName = item(  find(itemNumber == potential(sc).rightItem) );
                          
-                         potential(sc).leftAssociatedReward = associatedReward(  find(itemNumber == potential(sc).leftItem) );
+                         potential(sc).rightAssociatedReward = associatedReward(  find(itemNumber == potential(sc).rightItem) );
                     end
                 end
             catch err3
@@ -223,13 +248,13 @@ while ec <= size(vals,1)-lookAhead
         
         if vals(ec) == stimulusOffCode
             
-             potential(sc).juiceDrops = 0;
+             potential(sc).juiceDropsRecieved = 0;
             
              ec = ec + 1;
    
              if vals(ec) == rewardGivenCode 
                  while vals(ec) == rewardGivenCode
-                     potential(sc).juiceDrops =  potential(sc).juiceDrops +1;
+                     potential(sc).juiceDropsRecieved =  potential(sc).juiceDropsRecieved +1;
                      ec = ec + 1;
                  end
              end
@@ -247,7 +272,14 @@ while ec <= size(vals,1)-lookAhead
     
 end
 
+tc = 0; % trial count 
 
+if exist('sessionLogs', 'var')
+   
+    
+else
+    
+end
 
 % framesClust(:, 1) = times(allFramesIdx);
 % framesClust(:, 2) = allFramesIdx;

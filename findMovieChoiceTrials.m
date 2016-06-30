@@ -61,15 +61,49 @@ itemOffsetValue 	= 200;              % Offset of item values
 
 
 % ---------------- Find magic numbers ---------------
-magicIdx = find(vals == 9);
+magicCodeIdx = find(vals == magicNumberCode);
 
-taskStartIdx  = find(vals == taskStartCode);
 
-%magicClusterIdxs = kmeans(times(magicIdx),numel(taskStartIdx),'dist','sqeuclidean');
+[taskStartIdx] = find(vals == taskStartCode);
 
+magicClusterIdxs = kmeans(times(magicCodeIdx),numel(taskStartIdx),'dist','sqeuclidean');
+
+uniqueClusterIDs = unique(magicClusterIdxs);
+
+for mc = 1:numel(uniqueClusterIDs)
+    thisClusterID = uniqueClusterIDs(mc);
+    
+    thisClusterIdxs = magicCodeIdx( find(magicClusterIdxs == thisClusterID) );
+    
+    thisClusterMagicVals = vals(thisClusterIdxs+1);
+    
+    fprintf('Cluster ID%2d\t1st Index%5d\tVal:%3d\n',thisClusterID, thisClusterIdxs(1), thisClusterMagicVals(1));
+    
+    magicVals{mc}= thisClusterMagicVals;
+    magicIdxs{mc} = thisClusterIdxs+1;
+    magicStartIdx(mc) = thisClusterIdxs(1)+1;
+    
+end
+
+[orderedMagicStartIdx,magicSortIdx] = sort(magicStartIdx);
+
+orderedMagicVals = magicVals(magicSortIdx);
+orderedMagicIdxs = magicIdxs(magicSortIdx);
 
 juiceIdx =find(vals == rewardGivenCode);
 
+codeAssociatedMagicCluster = zeros(size(vals));
+
+for c = 1:length(orderedMagicStartIdx)-1
+    
+    orderedMagicStartIdx(c);
+    
+    codeAssociatedMagicCluster(orderedMagicStartIdx(c):orderedMagicStartIdx(c+1)) = c;
+    
+end
+c = c+1;
+
+codeAssociatedMagicCluster(orderedMagicStartIdx(c):end) = c;
 
 
 tc = 0;
@@ -116,6 +150,8 @@ while ec <= size(vals,1)-lookAhead
         potential(sc).condition = 0;
         potential(sc).leftItem = 0;
         potential(sc).rightItem = 0;
+        
+        potential(sc).magicNumbers = orderedMagicVals{codeAssociatedMagicCluster(ec)};
          
         try
             trialInfoCodes = vals( (ec-8) : ec);
@@ -247,7 +283,14 @@ while ec <= size(vals,1)-lookAhead
     
 end
 
+tc = 0; % trial count 
 
+if exist('sessionLogs', 'var')
+   
+    
+else
+    
+end
 
 % framesClust(:, 1) = times(allFramesIdx);
 % framesClust(:, 2) = allFramesIdx;
